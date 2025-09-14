@@ -1,0 +1,4432 @@
+{
+  "Error": "",
+  "ErrorCode": 0,
+  "Guid": "",
+  "Id": 0,
+  "Success": true,
+  "Value": [
+    {
+      "AE": [],
+      "CHIMG": "7807da326e300a18dc6bd586f3d3309b.png",
+      "CI": 278499433,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.17,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 33,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.26,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.15,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 5,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 182,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652894091,
+      "KI": 3,
+      "L": "Naoya Inoue vs Murodjon Akhmadaliev",
+      "LE": "Naoya Inoue vs Murodjon Akhmadaliev",
+      "LI": 2903799,
+      "LR": "Наоя Иноуэ vs Муроджон Ахмадалиев",
+      "MIO": {
+        "Loc": "Aichi International Arena (Nagoya)",
+        "TSt": "Fight for the undisputed super bantamweight title"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for the undisputed super bantamweight title"
+        },
+        {
+          "K": 2,
+          "V": "Aichi International Arena (Nagoya)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 150011,
+      "O1": "Naoya Inoue",
+      "O1C": 218,
+      "O1E": "Naoya Inoue",
+      "O1I": 103257,
+      "O1IMG": [
+        "103257.png"
+      ],
+      "O1IS": [
+        103257
+      ],
+      "O1R": "Наоя Иноуэ (Япо)",
+      "O2": "Murodjon Akhmadaliev",
+      "O2C": 192,
+      "O2E": "Murodjon Akhmadaliev",
+      "O2I": 389101,
+      "O2IMG": [
+        "389101.png"
+      ],
+      "O2IS": [
+        389101
+      ],
+      "O2R": "Муроджон Ахмадалиев (Узб)",
+      "PN": "",
+      "S": 1757847900,
+      "SE": "Boxing",
+      "SGC": 2,
+      "SGI": "6845d3089930a40b3c3653d0",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "677e02fb0d8c0bfbf152ff1e",
+      "SmI": 61928,
+      "T": 150,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 1546,
+      "HL": true,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276993602,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.019,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 10,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.021,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 11.1,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 650055455,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 174471,
+      "O1": "Danny Keating",
+      "O1C": 4,
+      "O1E": "Danny Keating",
+      "O1I": 9187791,
+      "O1IMG": [
+        "b702811c4863a277c256454601881e6f.png"
+      ],
+      "O1IS": [
+        9187791
+      ],
+      "O1R": "Дэнни Китинг (Авс)",
+      "O2": "Sachin Nautiyal",
+      "O2C": 71,
+      "O2E": "Sachin Nautiyal",
+      "O2I": 9799627,
+      "O2IMG": [
+        "b98dcbe1e166fac76ded8e6fb5c7831d.png"
+      ],
+      "O2IS": [
+        9799627
+      ],
+      "O2R": "Сачин Наутиял (Инд)",
+      "PN": "",
+      "S": 1758171600,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 325246,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276991812,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.018,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 10.2,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.02,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 11.4,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 652110591,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 161562,
+      "O1": "Floyd Masson",
+      "O1C": 4,
+      "O1E": "Floyd Masson",
+      "O1I": 7489351,
+      "O1IMG": [
+        "b0b0d14be48a81694f6943254d85170c.png"
+      ],
+      "O1IS": [
+        7489351
+      ],
+      "O1R": "Флойд Массон (Авс)",
+      "O2": "Dharmender Grewal",
+      "O2C": 71,
+      "O2E": "Dharmender Grewal",
+      "O2I": 6932115,
+      "O2IMG": [
+        "2d6685ba0cfdcd580c65666c5bb1f6ba.png"
+      ],
+      "O2IS": [
+        6932115
+      ],
+      "O2R": "Дармендер Гревал (Инд)",
+      "PN": "",
+      "S": 1758171600,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 325246,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277362411,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 2.182,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.62,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 2.333,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 13.2,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.732,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 7,
+      "HSI": true,
+      "I": 652609484,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 224700,
+      "O1": "Lachlan O'Shea",
+      "O1C": 4,
+      "O1E": "Lachlan O'Shea",
+      "O1I": 2223213,
+      "O1IMG": [
+        "2223213.png"
+      ],
+      "O1IS": [
+        2223213
+      ],
+      "O1R": "Лаклан О'Ши (Авс)",
+      "O2": "Dharringarra Trewhella",
+      "O2C": 4,
+      "O2E": "Dharringarra Trewhella",
+      "O2I": 8857631,
+      "O2IMG": [
+        "b318b743d8b19bd885e3ee793dc90afd.png"
+      ],
+      "O2IS": [
+        8857631
+      ],
+      "O2R": "Дхаррингарра Трювелла (Авс)",
+      "PN": "",
+      "S": 1758175200,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 328846,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277924548,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.242,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 21,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.305,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.22,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 3.875,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 7,
+      "HSI": true,
+      "I": 652369610,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 185699,
+      "O1": "Jacob Ng",
+      "O1C": 4,
+      "O1E": "Jacob Ng",
+      "O1I": 4574399,
+      "O1IMG": [
+        "db2109c4ac35b67f82cbcfad5e0b5e38.png"
+      ],
+      "O1IS": [
+        4574399
+      ],
+      "O1R": "Джейкоб Нг (Авс)",
+      "O2": "Rikki Naito",
+      "O2C": 218,
+      "O2E": "Rikki Naito",
+      "O2I": 347127,
+      "O2IMG": [
+        "347127.png"
+      ],
+      "O2IS": [
+        347127
+      ],
+      "O2R": "Рикки Наито (Япо)",
+      "PN": "",
+      "S": 1758178800,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 332446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276978583,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.35,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 2.986,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.385,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 15.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 3.385,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 7,
+      "HSI": true,
+      "I": 650043558,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 239075,
+      "O1": "Brock Jarvis",
+      "O1C": 4,
+      "O1E": "Brock Jarvis",
+      "O1I": 757941,
+      "O1IMG": [
+        "757941.png"
+      ],
+      "O1IS": [
+        757941
+      ],
+      "O1R": "Брок Джарвис (Авс)",
+      "O2": "Ken Aitken",
+      "O2C": 4,
+      "O2E": "Ken Aitken",
+      "O2I": 9716527,
+      "O2IMG": [
+        "365dff05a5b6961d8ea6396d3586e7a2.png"
+      ],
+      "O2IS": [
+        9716527
+      ],
+      "O2R": "Кен Эйткен (Авс)",
+      "PN": "",
+      "S": 1758186000,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 339646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276280159,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.139,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 4.9,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.153,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 26,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.43,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 649781264,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 163244,
+      "O1": "Paulo Aokuso",
+      "O1C": 4,
+      "O1E": "Paulo Aokuso",
+      "O1I": 5403359,
+      "O1IMG": [
+        "d1d35407f36c2184b9d3876de771ae1f.png"
+      ],
+      "O1IS": [
+        5403359
+      ],
+      "O1R": "Пауло Аокусо (Авс)",
+      "O2": "Casey Dixon",
+      "O2C": 153,
+      "O2E": "Casey Dixon",
+      "O2I": 9787659,
+      "O2IMG": [
+        "7b934f62394430e8ca445b7a71fbfbe0.png"
+      ],
+      "O2IS": [
+        9787659
+      ],
+      "O2R": "Кейси Диксон (США)",
+      "PN": "",
+      "S": 1758186000,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 339646,
+      "IG": true
+    },
+    {
+      "AE": [
+        {
+          "G": 17,
+          "ME": [
+            {
+              "C": 1.41,
+              "CE": 1,
+              "G": 17,
+              "P": 8.5,
+              "T": 9
+            },
+            {
+              "C": 2.64,
+              "CE": 1,
+              "G": 17,
+              "P": 8.5,
+              "T": 10
+            }
+          ]
+        }
+      ],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276283431,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.077,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 9,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.013,
+          "G": 8,
+          "T": 4
+        },
+        {
+          "C": 5.9,
+          "G": 8,
+          "T": 6
+        },
+        {
+          "C": 1.049,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 7.8,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.41,
+          "CE": 1,
+          "G": 17,
+          "P": 8.5,
+          "T": 9
+        },
+        {
+          "C": 2.64,
+          "CE": 1,
+          "G": 17,
+          "P": 8.5,
+          "T": 10
+        }
+      ],
+      "EC": 58,
+      "HSI": true,
+      "I": 649777412,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)",
+        "TSt": "Fight for World Champion title by WBO International in a Super Lightweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBO International in a Super Lightweight"
+        },
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 194021,
+      "O1": "Liam Wilson",
+      "O1C": 4,
+      "O1E": "Liam Wilson",
+      "O1I": 1512323,
+      "O1IMG": [
+        "1512323.png"
+      ],
+      "O1IS": [
+        1512323
+      ],
+      "O1R": "Лиам Вилсон (Авс)",
+      "O2": "Sandy Tavarez Montilla",
+      "O2C": 65,
+      "O2E": "Sandy Tavarez Montilla",
+      "O2I": 9787677,
+      "O2IMG": [
+        "3dd3999c9662b6e438c00eff3ba67b97.png"
+      ],
+      "O2IS": [
+        9787677
+      ],
+      "O2R": "Сэнди Таварес Монтилья (Дом)",
+      "PN": "",
+      "S": 1758189600,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 343246,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 274683129,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.062,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 7.2,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.068,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 8.95,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 72,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649772946,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Pat Rafter Arena (Brisbane)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Pat Rafter Arena (Brisbane)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 244943,
+      "O1": "Liam Paro",
+      "O1C": 4,
+      "O1E": "Liam Paro",
+      "O1I": 2072861,
+      "O1IMG": [
+        "2072861.png"
+      ],
+      "O1IS": [
+        2072861
+      ],
+      "O1R": "Лиам Паро (Авс)",
+      "O2": "David Papot",
+      "O2C": 198,
+      "O2E": "David Papot",
+      "O2I": 6589563,
+      "O2IMG": [
+        "5ebe9cbf543dbbf8af0eea5dafe09c2a.png"
+      ],
+      "O2IS": [
+        6589563
+      ],
+      "O2R": "Дэвид Папот (Фра)",
+      "PN": "",
+      "S": 1758193200,
+      "SE": "Boxing",
+      "SGI": "68a4e7a79930a40b3c81769d",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67634a820d8c0bfbf14e8a65",
+      "SmI": 47012,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 346846,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 278798775,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.02,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 41,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 21,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 3,
+      "HSI": true,
+      "I": 653494911,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Fantasy Springs Resort (Indio)",
+        "TSt": "Undisputed Womens Flyweight Title"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Undisputed Womens Flyweight Title"
+        },
+        {
+          "K": 2,
+          "V": "Fantasy Springs Resort (Indio)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 251117,
+      "O1": "Gabriela Diana Fundora",
+      "O1C": 153,
+      "O1E": "Gabriela Diana Fundora",
+      "O1I": 6708401,
+      "O1IMG": [
+        "805152b046b34d216ef1d32c8a810f5d.png"
+      ],
+      "O1IS": [
+        6708401
+      ],
+      "O1R": "Габриэла Диана Фундора (США)",
+      "O2": "Alexas Kubicki",
+      "O2C": 147,
+      "O2E": "Alexas Kubicki",
+      "O2I": 9829393,
+      "O2IMG": [
+        "543b5c892032c52473afef8a4b99eb06.png"
+      ],
+      "O2IS": [
+        9829393
+      ],
+      "O2R": "Алекса Кубицки (Пол)",
+      "PN": "",
+      "S": 1758391200,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 14519,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 544846
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 274214856,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.05,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 7.8,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.055,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 35,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 8.95,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 7,
+      "HSI": true,
+      "I": 649777411,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Fantasy Springs Resort (Indio)",
+        "TSt": "Fight for World Champion title by WBC/WBO in the Minimumweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBC/WBO in the Minimumweight"
+        },
+        {
+          "K": 2,
+          "V": "Fantasy Springs Resort (Indio)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 188697,
+      "O1": "Oscar Collazo",
+      "O1C": 149,
+      "O1E": "Oscar Collazo",
+      "O1I": 6681647,
+      "O1IMG": [
+        "ac8d8a346b17d1222aeada30c71324e6.png"
+      ],
+      "O1IS": [
+        6681647
+      ],
+      "O1R": "Оскар Кольясо (П-Рик)",
+      "O2": "Jayson Vayson",
+      "O2C": 196,
+      "O2E": "Jayson Vayson",
+      "O2I": 8217109,
+      "O2IMG": [
+        "568e870ac14340fb992e35dd24b2e536.png"
+      ],
+      "O2IS": [
+        8217109
+      ],
+      "O2R": "Джейсон Уэйсон (Фил)",
+      "PN": "",
+      "S": 1758420000,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 14519,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 573646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276291766,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.8,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.9,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.881,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 18.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.985,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 652663896,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Braehead Arena (Glasgow)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Braehead Arena (Glasgow)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 154777,
+      "O1": "Regan Glackin",
+      "O1C": 219,
+      "O1E": "Regan Glackin",
+      "O1I": 8445183,
+      "O1IMG": [
+        "5f71a6dd0d991908e0f6d8cdb6c880bc.png"
+      ],
+      "O1IS": [
+        8445183
+      ],
+      "O1R": "Реган Глакин (Шот)",
+      "O2": "Louie O'Doherty",
+      "O2C": 231,
+      "O2E": "Louie O'Doherty",
+      "O2I": 9033753,
+      "O2IMG": [
+        "dafb3b5671d70fc860f107f5eb3d7d52.png"
+      ],
+      "O2IS": [
+        9033753
+      ],
+      "O2R": "Луи О'Доэрти (Анг)",
+      "PN": "",
+      "S": 1759604400,
+      "SE": "Boxing",
+      "SGI": "68af08789930a40b3c0bb6e6",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "STI": "68af08789930a40b3c0bb8c2",
+      "SmI": 13346,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 1758046,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276291765,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.32,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 3.14,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.352,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 20,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 3.41,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 652609483,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Braehead Arena (Glasgow)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Braehead Arena (Glasgow)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 154784,
+      "O1": "William Hutchinson",
+      "O1C": 225,
+      "O1E": "William Hutchinson",
+      "O1I": 486527,
+      "O1IMG": [
+        "044cc9217ea2e2469189dd10bd710dce.png"
+      ],
+      "O1IS": [
+        486527
+      ],
+      "O1R": "Вилли Хатчинсон (Вел)",
+      "O2": "Mark Jeffers",
+      "O2C": 231,
+      "O2E": "Mark Jeffers",
+      "O2I": 7707467,
+      "O2IMG": [
+        "4900d20e83a4fc49aa2c4842e8ebe1b1.png"
+      ],
+      "O2IS": [
+        7707467
+      ],
+      "O2R": "Марк Джефферс (Анг)",
+      "PN": "",
+      "S": 1759608000,
+      "SE": "Boxing",
+      "SGI": "68af09279930a40b3c33b306",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "673cfa1e0d8c0bfbf10516ca",
+      "SmI": 13346,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 1761646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 272858762,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.181,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 4.375,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.199,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 22,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.94,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649752925,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Braehead Arena (Glasgow)",
+        "TSt": "Fight for EBU European in the featherweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for EBU European in the featherweight"
+        },
+        {
+          "K": 2,
+          "V": "Braehead Arena (Glasgow)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 190040,
+      "O1": "Nathaniel Collins",
+      "O1C": 39,
+      "O1E": "Nathaniel Collins",
+      "O1I": 5922747,
+      "O1IMG": [
+        "4099c05c593e644cfeb6adfb74245c49.png"
+      ],
+      "O1IS": [
+        5922747
+      ],
+      "O1R": "Натаниэль Коллинз (Вел)",
+      "O2": "Cristobal Lorente Campoy",
+      "O2C": 78,
+      "O2E": "Cristobal Lorente Campoy",
+      "O2I": 8619435,
+      "O2IMG": [
+        "7ad8039acc678bc3b2a27b8e9e69619d.png"
+      ],
+      "O2IS": [
+        8619435
+      ],
+      "O2R": "Кристобаль Лоренте Кампой (Исп)",
+      "PN": "",
+      "S": 1759611600,
+      "SE": "Boxing",
+      "SGI": "68a3ccfa9930a40b3c074adc",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "STI": "68a3ccfa9930a40b3c074c36",
+      "SmI": 13346,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 1765246,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 273217763,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.26,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 3.545,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.286,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.11,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649752926,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Utilita Arena Sheffield (Sheffield)",
+        "TSt": "Fight for Champion England in the Super welterweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for Champion England in the Super welterweight"
+        },
+        {
+          "K": 2,
+          "V": "Utilita Arena Sheffield (Sheffield)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 166038,
+      "O1": "Junaid Bostan",
+      "O1C": 39,
+      "O1E": "Junaid Bostan",
+      "O1I": 7707545,
+      "O1IMG": [
+        "1b4dab61946839be08e08e2793e86a31.png"
+      ],
+      "O1IS": [
+        7707545
+      ],
+      "O1R": "Джунаид Бостан (Вел)",
+      "O2": "Bilal Fawaz",
+      "O2C": 39,
+      "O2E": "Bilal Fawaz",
+      "O2I": 6258679,
+      "O2IMG": [
+        "1c3703aceb00e5439ddc7611a47151bc.png"
+      ],
+      "O2IS": [
+        6258679
+      ],
+      "O2R": "Билал Фаваз (Вел)",
+      "PN": "",
+      "S": 1760209200,
+      "SE": "Boxing",
+      "SGI": "6892044c9930a40b3cdfa2a6",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "6792ae6f9930a40b3cc2d0ef",
+      "SmI": 12766,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2362846,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 272985783,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.31,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 3.2,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.341,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 3.61,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649752316,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Utilita Arena Sheffield (Sheffield)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Utilita Arena Sheffield (Sheffield)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 242946,
+      "O1": "Josh Padley",
+      "O1C": 39,
+      "O1E": "Josh Padley",
+      "O1I": 8678345,
+      "O1IMG": [
+        "ac39e8bb997a16b2ef7585729a331b3e.png"
+      ],
+      "O1IS": [
+        8678345
+      ],
+      "O1R": "Джош Пэдли (Вел)",
+      "O2": "Reece Bellotti",
+      "O2C": 231,
+      "O2E": "Reece Bellotti",
+      "O2I": 296191,
+      "O2IMG": [
+        "296191.png"
+      ],
+      "O2IS": [
+        296191
+      ],
+      "O2R": "Рис Беллотти (Анг)",
+      "PN": "",
+      "S": 1760212800,
+      "SE": "Boxing",
+      "SGI": "68914ead9930a40b3cc03af6",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "6793d2969930a40b3ce76d44",
+      "SmI": 12766,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2366446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 272818511,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.96,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.75,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 2.061,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.84,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 72,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649750623,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Utilita Arena Sheffield (Sheffield)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Utilita Arena Sheffield (Sheffield)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 167755,
+      "O1": "David Allen",
+      "O1C": 39,
+      "O1E": "David Allen",
+      "O1I": 323113,
+      "O1IMG": [
+        "323113.png"
+      ],
+      "O1IS": [
+        323113
+      ],
+      "O1R": "Дэвид Аллен (Вел)",
+      "O2": "Arslanbek Makhmudov",
+      "O2C": 1,
+      "O2E": "Arslanbek Makhmudov",
+      "O2I": 2517619,
+      "O2IMG": [
+        "2517619.png"
+      ],
+      "O2IS": [
+        2517619
+      ],
+      "O2R": "Арсланбек Махмудов (Рос)",
+      "PN": "",
+      "S": 1760216400,
+      "SE": "Boxing",
+      "SGI": "68914ed19930a40b3cc78bc7",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67573cb30d8c0bfbf14d033d",
+      "SmI": 12766,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2370046,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 275991611,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.65,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 2.134,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.726,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 18.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.232,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 652666435,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Wells Fargo Center (Philadelphia)",
+        "TSt": "WBC Continental Americas Heavyweight Title"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "WBC Continental Americas Heavyweight Title"
+        },
+        {
+          "K": 2,
+          "V": "Wells Fargo Center (Philadelphia)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 151037,
+      "O1": "Alexis Barriere",
+      "O1C": 85,
+      "O1E": "Alexis Barriere",
+      "O1I": 9385027,
+      "O1IMG": [
+        "55caec5f86fd2bf10c68c069c3ba25cc.png"
+      ],
+      "O1IS": [
+        9385027
+      ],
+      "O1R": "Алексис Барриер (Кан)",
+      "O2": "Guido Vianello",
+      "O2C": 79,
+      "O2E": "Guido Vianello",
+      "O2I": 389165,
+      "O2IMG": [
+        "389165.png"
+      ],
+      "O2IS": [
+        389165
+      ],
+      "O2R": "Гвидо Вианелло (Ита)",
+      "PN": "",
+      "S": 1760230800,
+      "SE": "Boxing",
+      "SGI": "68ad55c29930a40b3c48acc8",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "STI": "68ad55c29930a40b3c48addb",
+      "SmI": 701,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2384446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 275992247,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.134,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 5,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.147,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 23,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.73,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 652663895,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Wells Fargo Center (Philadelphia)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Wells Fargo Center (Philadelphia)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 155227,
+      "O1": "Khalil Coe",
+      "O1C": 153,
+      "O1E": "Khalil Coe",
+      "O1I": 7073891,
+      "O1IMG": [
+        "9c51b0eae54fdc0f61a8a34d6bf25f54.png"
+      ],
+      "O1IS": [
+        7073891
+      ],
+      "O1R": "Халил Коу (США)",
+      "O2": "Jesse Hart",
+      "O2C": 153,
+      "O2E": "Jesse Hart",
+      "O2I": 174859,
+      "O2IMG": [
+        "174859.png"
+      ],
+      "O2IS": [
+        174859
+      ],
+      "O2R": "Джесси Харт (США)",
+      "PN": "",
+      "S": 1760234400,
+      "SE": "Boxing",
+      "SGI": "68ad56009930a40b3c571599",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "682789d39930a40b3cc870ff",
+      "SmI": 701,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2388046,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 274208716,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.043,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 9,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.047,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 41,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 10.3,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 71,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 652609482,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Wells Fargo Center (Philadelphia)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Wells Fargo Center (Philadelphia)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 254798,
+      "O1": "Jaron Ennis",
+      "O1C": 153,
+      "O1E": "Jaron Ennis",
+      "O1I": 1818837,
+      "O1IMG": [
+        "1818837.png"
+      ],
+      "O1IS": [
+        1818837
+      ],
+      "O1R": "Джерон Эннис (США)",
+      "O2": "Uisma Dos Ramos Lima",
+      "O2C": 9,
+      "O2E": "Uisma Dos Ramos Lima",
+      "O2I": 7679787,
+      "O2IMG": [
+        "b9880bfac02dde21c04863b4b0952f27.png"
+      ],
+      "O2IS": [
+        7679787
+      ],
+      "O2R": "Уисма Дос Рамос Лима (Аго)",
+      "PN": "",
+      "S": 1760238000,
+      "SE": "Boxing",
+      "SGI": "68a3cd7c9930a40b3c1c19ec",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67875eea9930a40b3cad0167",
+      "SmI": 701,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2391646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 273444428,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.94,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.77,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 2.069,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 13.4,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.888,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649749805,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "York Hall (London)",
+        "TSt": "Fight for Great Britain Champion and the Commonwealth in the middleweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for Great Britain Champion and the Commonwealth in the middleweight"
+        },
+        {
+          "K": 2,
+          "V": "York Hall (London)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 174663,
+      "O1": "Kieron Conway",
+      "O1C": 225,
+      "O1E": "Kieron Conway",
+      "O1I": 1968069,
+      "O1IMG": [
+        "1968069.png"
+      ],
+      "O1IS": [
+        1968069
+      ],
+      "O1R": "Кирон Конвей (Вел)",
+      "O2": "George Liddard",
+      "O2C": 231,
+      "O2E": "George Liddard",
+      "O2I": 7671337,
+      "O2IMG": [
+        "4d09811bf08488b826d217880cd07e04.png"
+      ],
+      "O2IS": [
+        7671337
+      ],
+      "O2R": "Джордж Лиддард (Анг)",
+      "PN": "",
+      "S": 1760734800,
+      "SE": "Boxing",
+      "SGI": "6893e8609930a40b3ce16e27",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "68259c949930a40b3c8f1ac1",
+      "SmI": 15155,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 2888446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277974673,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.143,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 26,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.61,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.13,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 5.05,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 651933822,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "O2 Arena (London)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "O2 Arena (London)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 189063,
+      "O1": "Royston Barney Smith",
+      "O1C": 39,
+      "O1E": "Royston Barney Smith",
+      "O1I": 6438895,
+      "O1IMG": [
+        "19e1a90227eeddd76563c6c052ac5cca.png"
+      ],
+      "O1IS": [
+        6438895
+      ],
+      "O1R": "Ройстон Барни Смит (Вел)",
+      "O2": "Danny Quatermaine",
+      "O2C": 231,
+      "O2E": "Danny Quatermaine",
+      "O2I": 7594467,
+      "O2IMG": [
+        "e0f702960b9a4cc58d52a12f43b202d3.png"
+      ],
+      "O2IS": [
+        7594467
+      ],
+      "O2R": "Дэнни Куотермейн (Анг)",
+      "PN": "",
+      "S": 1761415800,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 17477,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3569446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277974674,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 2.026,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 18.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.838,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.94,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.76,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 651933821,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "O2 Arena (London)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "O2 Arena (London)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 189065,
+      "O1": "Lewis Edmondson",
+      "O1C": 225,
+      "O1E": "Lewis Edmondson",
+      "O1I": 4526367,
+      "O1IMG": [
+        "176e71b0f1a4f85254ade67293a46957.png"
+      ],
+      "O1IS": [
+        4526367
+      ],
+      "O1R": "Льюис Эдмондсон (Вел)",
+      "O2": "Ezra Taylor",
+      "O2C": 39,
+      "O2E": "Ezra Taylor",
+      "O2I": 5514795,
+      "O2IMG": [
+        "2795d8c659917e7c77f285bad7f86567.png"
+      ],
+      "O2IS": [
+        5514795
+      ],
+      "O2R": "Эзра Тейлор (Вел)",
+      "PN": "",
+      "S": 1761418800,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 17477,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3572446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277974675,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.45,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 17,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.807,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 3,
+      "HSI": true,
+      "I": 651933820,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "O2 Arena (London)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "O2 Arena (London)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 189079,
+      "O1": "Denzel Bentley",
+      "O1C": 39,
+      "O1E": "Denzel Bentley",
+      "O1I": 3018031,
+      "O1IMG": [
+        "8ed8e403a783a626f3059a7cd1ca8ba1.png"
+      ],
+      "O1IS": [
+        3018031
+      ],
+      "O1R": "Дензел Бентли (Вел)",
+      "O2": "Endry Jose Pinto",
+      "O2C": 41,
+      "O2E": "Endry Jose Pinto",
+      "O2I": 389259,
+      "O2IMG": [
+        "89a23fb477037eb6256c81149f0678a8.png"
+      ],
+      "O2IS": [
+        389259
+      ],
+      "O2R": "Эндрю Хосе Пинто (Внс)",
+      "PN": "",
+      "S": 1761422400,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 17477,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3576046,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277782214,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.14,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 21,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.5,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.12,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 5.5,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 66,
+      "HSI": true,
+      "I": 651414081,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "O2 Arena (London)",
+        "TSt": "Fight for World Champion title by WBO and WBA Heavyweight Title"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBO and WBA Heavyweight Title"
+        },
+        {
+          "K": 2,
+          "V": "O2 Arena (London)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 168347,
+      "O1": "Joseph Parker",
+      "O1C": 135,
+      "O1E": "Joseph Parker",
+      "O1I": 52197,
+      "O1IMG": [
+        "52197.png"
+      ],
+      "O1IS": [
+        52197
+      ],
+      "O1R": "Джозеф Паркер (Н.Зел)",
+      "O2": "Fabio Wardley",
+      "O2C": 39,
+      "O2E": "Fabio Wardley",
+      "O2I": 2280041,
+      "O2IMG": [
+        "2280041.png"
+      ],
+      "O2IS": [
+        2280041
+      ],
+      "O2R": "Фабио Уордли (Вел)",
+      "PN": "",
+      "S": 1761426000,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 17477,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3579646
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 277709772,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.14,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 21,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.5,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 3,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 651426482,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "MGM Grand (Las Vegas)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "MGM Grand (Las Vegas)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 204701,
+      "O1": "Jesus Alejandro Ramos",
+      "O1C": 153,
+      "O1E": "Jesus Alejandro Ramos",
+      "O1I": 4641535,
+      "O1IMG": [
+        "b33ef226159c71e3d4d8dd0d15e8eb1f.png"
+      ],
+      "O1IS": [
+        4641535
+      ],
+      "O1R": "Хесус Алехандро Рамос (США)",
+      "O2": "Shane Mosley Jr",
+      "O2C": 153,
+      "O2E": "Shane Mosley Jr",
+      "O2I": 757915,
+      "O2IMG": [
+        "757915.png"
+      ],
+      "O2IS": [
+        757915
+      ],
+      "O2R": "Шейн Мозли-младший (США)",
+      "PN": "",
+      "S": 1761444000,
+      "SE": "Boxing",
+      "SGI": "68bc9ab39930a40b3cc69842",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67523a520d8c0bfbf107be04",
+      "SmI": 18259,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3597646
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276953241,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.892,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.997,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.8,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.9,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 9,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 652336655,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "MGM Grand (Las Vegas)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "MGM Grand (Las Vegas)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 225663,
+      "O1": "O'Shaquie Foster",
+      "O1C": 153,
+      "O1E": "O'Shaquie Foster",
+      "O1I": 3301007,
+      "O1IMG": [
+        "fbb78441224f8559833df8d2832f5464.png"
+      ],
+      "O1IS": [
+        3301007
+      ],
+      "O1R": "О'Шаки Фостер (США)",
+      "O2": "Stephen Fulton",
+      "O2C": 153,
+      "O2E": "Stephen Fulton",
+      "O2I": 2373043,
+      "O2IMG": [
+        "2373043.png"
+      ],
+      "O2IS": [
+        2373043
+      ],
+      "O2R": "Стивен Фултон (США)",
+      "PN": "",
+      "S": 1761444000,
+      "SE": "Boxing",
+      "SGI": "68bc9a5e9930a40b3cb8780c",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "STI": "68bc9a5e9930a40b3cb878dc",
+      "SmI": 18259,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3597646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276971997,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.23,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 17,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.405,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.21,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 3.99,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 68,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649962363,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "MGM Grand (Las Vegas)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "MGM Grand (Las Vegas)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 186249,
+      "O1": "Sebastian Fundora",
+      "O1C": 153,
+      "O1E": "Sebastian Fundora",
+      "O1I": 1919489,
+      "O1IMG": [
+        "1919489.png"
+      ],
+      "O1IS": [
+        1919489
+      ],
+      "O1R": "Себастьян Фундора (США)",
+      "O2": "Keith Thurman",
+      "O2C": 153,
+      "O2CT": "Kiryat Ono",
+      "O2E": "Keith Thurman",
+      "O2I": 49791,
+      "O2IMG": [
+        "49791.png"
+      ],
+      "O2IS": [
+        49791
+      ],
+      "O2R": "Кейт Турман (США)",
+      "PN": "",
+      "S": 1761453000,
+      "SE": "Boxing",
+      "SGI": "68bc9a3c9930a40b3cb40c97",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67559bf40d8c0bfbf164d51c",
+      "SmI": 18259,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 3606646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276007907,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 5.5,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 21,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.14,
+          "G": 1,
+          "T": 3
+        }
+      ],
+      "EC": 3,
+      "HSI": true,
+      "I": 648139957,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Montreal Casino (Montreal)",
+        "TSt": "Fight for World Champion title by WBA in the Womens Super flyweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBA in the Womens Super flyweight"
+        },
+        {
+          "K": 2,
+          "V": "Montreal Casino (Montreal)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 179515,
+      "O1": "Mary Spencer",
+      "O1C": 85,
+      "O1E": "Mary Spencer",
+      "O1I": 6637433,
+      "O1IMG": [
+        "d0af097fe85a1649a93700ed46ee9988.png"
+      ],
+      "O1IS": [
+        6637433
+      ],
+      "O1R": "Мэри Спенсер (Кан)",
+      "O2": "Mikaela Mayer",
+      "O2C": 153,
+      "O2E": "Mikaela Mayer",
+      "O2I": 389671,
+      "O2IMG": [
+        "389671.png"
+      ],
+      "O2IS": [
+        389671
+      ],
+      "O2R": "Микаэла Мэйер (США)",
+      "PN": "",
+      "S": 1761883200,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 20845,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 4036846
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 273810467,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.143,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 26,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 5.61,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.13,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 5.05,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 643923820,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Co-op Live  (Manchester)",
+        "TSt": "Fight for Intercontinental Champion title by WBA Continental, IBF Intercontinental and WBO International in a Light Heavyweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for Intercontinental Champion title by WBA Continental, IBF Intercontinental and WBO International in a Light Heavyweight"
+        },
+        {
+          "K": 2,
+          "V": "Co-op Live  (Manchester)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 264133,
+      "O1": "Daniel Lapin",
+      "O1C": 2,
+      "O1E": "Daniel Lapin",
+      "O1I": 5642525,
+      "O1IMG": [
+        "015449e3e74b175a3b277c96b3276817.png"
+      ],
+      "O1IS": [
+        5642525
+      ],
+      "O1R": "Даниэль Лапин (Укр)",
+      "O2": "Troy Jones",
+      "O2C": 39,
+      "O2E": "Troy Jones",
+      "O2I": 9139631,
+      "O2IMG": [
+        "5d22bb933a474c7145845ac32acf7d34.png"
+      ],
+      "O2IS": [
+        9139631
+      ],
+      "O2R": "Трой Джонс (Вел)",
+      "PN": "",
+      "S": 1762027200,
+      "SE": "Boxing",
+      "SGI": "689be01e9930a40b3cf5f7c4",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "STI": "689be01e9930a40b3cf5f99a",
+      "SmI": 55201,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 4180846
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 273809051,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.653,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 18.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.374,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.58,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 2.268,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 643919274,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Co-op Live  (Manchester)",
+        "TSt": "Fight for EBU European in the Light heavyweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for EBU European in the Light heavyweight"
+        },
+        {
+          "K": 2,
+          "V": "Co-op Live  (Manchester)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 261853,
+      "O1": "Bradley Rea",
+      "O1C": 39,
+      "O1E": "Bradley Rea",
+      "O1I": 4991613,
+      "O1IMG": [
+        "206bf59d14f89c2cdda6370b88e92282.png"
+      ],
+      "O1IS": [
+        4991613
+      ],
+      "O1R": "Брэдли Ри (Вел)",
+      "O2": "Arthur Lyndon",
+      "O2C": 231,
+      "O2E": "Arthur Lyndon",
+      "O2I": 2275841,
+      "O2IMG": [
+        "2275841.png"
+      ],
+      "O2IS": [
+        2275841
+      ],
+      "O2R": "Артур Линдон (Вел)",
+      "PN": "",
+      "S": 1762030800,
+      "SE": "Boxing",
+      "SGI": "68a26fb49930a40b3cee03b6",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "679beab39930a40b3cd329dc",
+      "SmI": 55201,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 4184446
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 273690663,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.26,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 17,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.07,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.23,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 3.75,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 5,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 643676996,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Co-op Live  (Manchester)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Co-op Live  (Manchester)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 200334,
+      "O1": "Joshua Buatsi",
+      "O1C": 39,
+      "O1E": "Joshua Buatsi",
+      "O1I": 389403,
+      "O1IMG": [
+        "389403.png"
+      ],
+      "O1IS": [
+        389403
+      ],
+      "O1R": "Джошуа Буатси (Вел)",
+      "O2": "Zach Parker",
+      "O2C": 39,
+      "O2E": "Zach Parker",
+      "O2I": 911939,
+      "O2IMG": [
+        "911939.png"
+      ],
+      "O2IS": [
+        911939
+      ],
+      "O2R": "Зак Паркер (Вел)",
+      "PN": "",
+      "S": 1762034400,
+      "SE": "Boxing",
+      "SGI": "68a213939930a40b3cc66f06",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "673cfa1e0d8c0bfbf10516ca",
+      "SmI": 55201,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 4188046
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 274216140,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.187,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.97,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.17,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 4.515,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 5,
+      "HSI": true,
+      "I": 644693469,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Caribe Royale Orlando (Orlando)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Caribe Royale Orlando (Orlando)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 197645,
+      "O1": "Lenier Pero",
+      "O1C": 97,
+      "O1E": "Lenier Pero",
+      "O1I": 389159,
+      "O1IMG": [
+        "389159.png"
+      ],
+      "O1IS": [
+        389159
+      ],
+      "O1R": "Ленье Перо (Куб)",
+      "O2": "Jordan Thompson",
+      "O2C": 39,
+      "O2E": "Jordan Thompson",
+      "O2I": 5794203,
+      "O2IMG": [
+        "48962d35e8fe7f4a0c032dab213b13f8.png"
+      ],
+      "O2IS": [
+        5794203
+      ],
+      "O2R": "Джордан Томпсон (Вел)",
+      "PN": "",
+      "S": 1762056000,
+      "SE": "Boxing",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SSI": 0,
+      "SmI": 53953,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 4209646
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276870776,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.187,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 29,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.86,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.17,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 4.515,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 74,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 648160969,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Dickies Arena (Fort Worth)",
+        "TSt": "Fight for Interim World Champion title by WBC in the Light Middleweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for Interim World Champion title by WBC in the Light Middleweight"
+        },
+        {
+          "K": 2,
+          "V": "Dickies Arena (Fort Worth)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 157240,
+      "O1": "Vergil Ortiz Jr",
+      "O1C": 153,
+      "O1E": "Vergil Ortiz Jr",
+      "O1I": 2263335,
+      "O1IMG": [
+        "2263335.png"
+      ],
+      "O1IS": [
+        2263335
+      ],
+      "O1R": "Верджил Ортиц-младший (США)",
+      "O2": "Erickson Lubin",
+      "O2C": 153,
+      "O2E": "Erickson Lubin",
+      "O2I": 232339,
+      "O2IMG": [
+        "232339.png"
+      ],
+      "O2IS": [
+        232339
+      ],
+      "O2R": "Эриксон Лубин (США)",
+      "PN": "",
+      "S": 1762660800,
+      "SE": "Boxing",
+      "SGI": "68ade33b9930a40b3caef99c",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67559bf40d8c0bfbf164d51c",
+      "SmI": 33306,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 4814446,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276011273,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 2.738,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 1.45,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 648146497,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "State Farm Arena (Atlanta)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "State Farm Arena (Atlanta)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 206982,
+      "O1": "Jake Paul",
+      "O1C": 153,
+      "O1E": "Jake Paul",
+      "O1I": 1903465,
+      "O1IMG": [
+        "65a22c18b118968f5e2826d7aef58534.png"
+      ],
+      "O1IS": [
+        1903465
+      ],
+      "O1R": "Джейк Пол (США)",
+      "O2": "Gervonta Davis",
+      "O2C": 153,
+      "O2E": "Gervonta Davis",
+      "O2I": 325953,
+      "O2IMG": [
+        "325953.png"
+      ],
+      "O2IS": [
+        325953
+      ],
+      "O2R": "Гервонта Дэвис (США)",
+      "PN": "",
+      "S": 1763182800,
+      "SE": "Boxing",
+      "SGI": "68abe25c9930a40b3c071b39",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67818a9d9930a40b3c3f42bd",
+      "SmI": 807,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 5336446
+    },
+    {
+      "AE": [
+        {
+          "G": 17,
+          "ME": [
+            {
+              "C": 1.76,
+              "CE": 1,
+              "G": 17,
+              "P": 10.5,
+              "T": 9
+            },
+            {
+              "C": 1.93,
+              "CE": 1,
+              "G": 17,
+              "P": 10.5,
+              "T": 10
+            }
+          ]
+        }
+      ],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 276750323,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.54,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.643,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.39,
+          "G": 8,
+          "T": 4
+        },
+        {
+          "C": 2.27,
+          "G": 8,
+          "T": 6
+        },
+        {
+          "C": 1.48,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 2.5,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.76,
+          "CE": 1,
+          "G": 17,
+          "P": 10.5,
+          "T": 9
+        },
+        {
+          "C": 1.93,
+          "CE": 1,
+          "G": 17,
+          "P": 10.5,
+          "T": 10
+        }
+      ],
+      "EC": 74,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 649577371,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "Tottenham Hotspur (London)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Tottenham Hotspur (London)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 188244,
+      "O1": "Chris Eubank Jr",
+      "O1C": 39,
+      "O1E": "Chris Eubank Jr",
+      "O1I": 57899,
+      "O1IMG": [
+        "57899.png"
+      ],
+      "O1IS": [
+        57899
+      ],
+      "O1R": "Крис Юбенк-младший (Вел)",
+      "O2": "Conor Benn",
+      "O2C": 231,
+      "O2E": "Conor Benn",
+      "O2I": 328673,
+      "O2IMG": [
+        "328673.png"
+      ],
+      "O2IS": [
+        328673
+      ],
+      "O2R": "Конор Бенн (Вел)",
+      "PN": "",
+      "S": 1763244000,
+      "SE": "Boxing",
+      "SGI": "68b35b109930a40b3c7e65a9",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "673daa340d8c0bfbf1fa09e3",
+      "SmI": 9742,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 5397646,
+      "IG": true
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 275320695,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.708,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 14.6,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.336,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.61,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 2.202,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 9,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 648163087,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "ANB Arena (Riyadh)",
+        "TSt": "Fight for World Champion title by WBC in a Super Lightweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBC in a Super Lightweight"
+        },
+        {
+          "K": 2,
+          "V": "ANB Arena (Riyadh)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 151368,
+      "O1": "Subriel Matias",
+      "O1C": 149,
+      "O1E": "Subriel Matias",
+      "O1I": 2834535,
+      "O1IMG": [
+        "a1970f80de11dadb6ecf3cfba1f865ed.png"
+      ],
+      "O1IS": [
+        2834535
+      ],
+      "O1R": "Сабриел Матиас (П-Рик)",
+      "O2": "Dalton Smith",
+      "O2C": 39,
+      "O2E": "Dalton Smith",
+      "O2I": 2681153,
+      "O2IMG": [
+        "b131c976453bfbdbfbe7ebdabf8a7533.png"
+      ],
+      "O2IS": [
+        2681153
+      ],
+      "O2R": "Долтон Смит (Вел)",
+      "PN": "",
+      "S": 1763852400,
+      "SE": "Boxing",
+      "SGI": "68a5c59c9930a40b3c66692c",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67993a3c9930a40b3ce62496",
+      "SmI": 60149,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 6006046
+    },
+    {
+      "AE": [],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 273362322,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.033,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 47,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 14.6,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.03,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 12,
+          "G": 8389,
+          "T": 7737
+        }
+      ],
+      "EC": 66,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 646543216,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "ANB Arena (Riyadh)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "ANB Arena (Riyadh)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 213544,
+      "O1": "Artur Beterbiyev",
+      "O1C": 1,
+      "O1E": "Artur Beterbiyev",
+      "O1I": 110303,
+      "O1IMG": [
+        "203b4c28caa30f1737d1652c5c965be3.png"
+      ],
+      "O1IS": [
+        110303
+      ],
+      "O1R": "Артур Бетербиев (Рос)",
+      "O2": "Deon Nicholson",
+      "O2C": 153,
+      "O2E": "Deon Nicholson",
+      "O2I": 5113931,
+      "O2IMG": [
+        "43062810898b9b9c6826cfa27274a3d1.png"
+      ],
+      "O2IS": [
+        5113931
+      ],
+      "O2R": "Деон Николсон (США)",
+      "PN": "",
+      "S": 1763856000,
+      "SE": "Boxing",
+      "SGI": "68a3cc0b9930a40b3ccc7ed6",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "673cfa1e0d8c0bfbf10516ca",
+      "SmI": 60149,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 6009646,
+      "IG": true
+    },
+    {
+      "AE": [
+        {
+          "G": 17,
+          "ME": [
+            {
+              "C": 1.76,
+              "G": 17,
+              "P": 9.5,
+              "T": 9
+            },
+            {
+              "C": 1.95,
+              "G": 17,
+              "P": 9.5,
+              "T": 10
+            },
+            {
+              "C": 1.86,
+              "CE": 1,
+              "G": 17,
+              "P": 10.5,
+              "T": 9
+            },
+            {
+              "C": 1.86,
+              "CE": 1,
+              "G": 17,
+              "P": 10.5,
+              "T": 10
+            },
+            {
+              "C": 1.95,
+              "G": 17,
+              "P": 11.5,
+              "T": 9
+            },
+            {
+              "C": 1.76,
+              "G": 17,
+              "P": 11.5,
+              "T": 10
+            }
+          ]
+        }
+      ],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 269815784,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.26,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 16.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.415,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.164,
+          "G": 8,
+          "T": 4
+        },
+        {
+          "C": 3.5,
+          "G": 8,
+          "T": 6
+        },
+        {
+          "C": 1.22,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 4.06,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.86,
+          "CE": 1,
+          "G": 17,
+          "P": 10.5,
+          "T": 9
+        },
+        {
+          "C": 1.86,
+          "CE": 1,
+          "G": 17,
+          "P": 10.5,
+          "T": 10
+        }
+      ],
+      "EC": 82,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 637506298,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "ANB Arena (Riyadh)",
+        "TSt": "Fight for World Champion title by WBO in the lightweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBO in the lightweight"
+        },
+        {
+          "K": 2,
+          "V": "ANB Arena (Riyadh)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 210763,
+      "O1": "Abdullah Mason",
+      "O1C": 153,
+      "O1E": "Abdullah Mason",
+      "O1I": 7618713,
+      "O1IMG": [
+        "64f2cfc57919eefc617291d78646606d.png"
+      ],
+      "O1IS": [
+        7618713
+      ],
+      "O1R": "Абдулла Мэйсон (США)",
+      "O2": "Sam Noakes",
+      "O2C": 39,
+      "O2E": "Sam Noakes",
+      "O2I": 4096997,
+      "O2IMG": [
+        "c68aae3c95a8b597923bf9cb0be8fb11.png"
+      ],
+      "O2IS": [
+        4096997
+      ],
+      "O2R": "Сэм Ноукс (Вел)",
+      "PN": "",
+      "S": 1763859600,
+      "SE": "Boxing",
+      "SGI": "687a99cb9930a40b3c6ef280",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67861ada9930a40b3c84a270",
+      "SmI": 60149,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 6013246,
+      "IG": true
+    },
+    {
+      "AE": [
+        {
+          "G": 17,
+          "ME": [
+            {
+              "C": 1.93,
+              "CE": 1,
+              "G": 17,
+              "P": 9.5,
+              "T": 9
+            },
+            {
+              "C": 1.78,
+              "CE": 1,
+              "G": 17,
+              "P": 9.5,
+              "T": 10
+            },
+            {
+              "C": 2.05,
+              "G": 17,
+              "P": 10.5,
+              "T": 9
+            },
+            {
+              "C": 1.7,
+              "G": 17,
+              "P": 10.5,
+              "T": 10
+            },
+            {
+              "C": 2.17,
+              "G": 17,
+              "P": 11.5,
+              "T": 9
+            },
+            {
+              "C": 1.61,
+              "G": 17,
+              "P": 11.5,
+              "T": 10
+            }
+          ]
+        }
+      ],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 269421872,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.114,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 20,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 7.1,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.057,
+          "G": 8,
+          "T": 4
+        },
+        {
+          "C": 5.3,
+          "G": 8,
+          "T": 6
+        },
+        {
+          "C": 1.094,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 6.4,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.93,
+          "CE": 1,
+          "G": 17,
+          "P": 9.5,
+          "T": 9
+        },
+        {
+          "C": 1.78,
+          "CE": 1,
+          "G": 17,
+          "P": 9.5,
+          "T": 10
+        }
+      ],
+      "EC": 82,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 637506296,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "ANB Arena (Riyadh)",
+        "TSt": "Fight for World Champion title by WBC/IBF/WBA in the Super flyweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBC/IBF/WBA in the Super flyweight"
+        },
+        {
+          "K": 2,
+          "V": "ANB Arena (Riyadh)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 222880,
+      "O1": "Jesse Rodriguez",
+      "O1C": 153,
+      "O1E": "Jesse Rodriguez",
+      "O1I": 2480535,
+      "O1IMG": [
+        "2480535.png"
+      ],
+      "O1IS": [
+        2480535
+      ],
+      "O1R": "Джесси Родригес (США)",
+      "O2": "Fernando Daniel Martinez",
+      "O2C": 14,
+      "O2E": "Fernando Daniel Martinez",
+      "O2I": 5442575,
+      "O2IMG": [
+        "262e7e5df9dc379ec1549b3ce582f3b5.png"
+      ],
+      "O2IS": [
+        5442575
+      ],
+      "O2R": "Фернандо Даниэль Мартинес (Арг)",
+      "PN": "",
+      "S": 1763863200,
+      "SE": "Boxing",
+      "SGI": "687a99e39930a40b3c75e4bd",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "67cb5f819930a40b3c8008df",
+      "SmI": 60149,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 6016846,
+      "IG": true
+    },
+    {
+      "AE": [
+        {
+          "G": 17,
+          "ME": [
+            {
+              "C": 1.25,
+              "G": 17,
+              "P": 7.5,
+              "T": 9
+            },
+            {
+              "C": 3.34,
+              "G": 17,
+              "P": 7.5,
+              "T": 10
+            },
+            {
+              "C": 1.33,
+              "G": 17,
+              "P": 8.5,
+              "T": 9
+            },
+            {
+              "C": 2.93,
+              "G": 17,
+              "P": 8.5,
+              "T": 10
+            },
+            {
+              "C": 1.39,
+              "CE": 1,
+              "G": 17,
+              "P": 9.5,
+              "T": 9
+            },
+            {
+              "C": 2.72,
+              "CE": 1,
+              "G": 17,
+              "P": 9.5,
+              "T": 10
+            }
+          ]
+        }
+      ],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 270355413,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.75,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 14.5,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.222,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.55,
+          "G": 8,
+          "T": 4
+        },
+        {
+          "C": 1.92,
+          "G": 8,
+          "T": 6
+        },
+        {
+          "C": 1.68,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 2.085,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.39,
+          "CE": 1,
+          "G": 17,
+          "P": 9.5,
+          "T": 9
+        },
+        {
+          "C": 2.72,
+          "CE": 1,
+          "G": 17,
+          "P": 9.5,
+          "T": 10
+        }
+      ],
+      "EC": 82,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 637506297,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "ANB Arena (Riyadh)",
+        "TSt": "Fight for World Champion title by WBO in the Welterweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBO in the Welterweight"
+        },
+        {
+          "K": 2,
+          "V": "ANB Arena (Riyadh)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 241724,
+      "O1": "Brian Norman Jr",
+      "O1C": 153,
+      "O1E": "Brian Norman Jr",
+      "O1I": 3629501,
+      "O1IMG": [
+        "a3e2d16bc1de1eb32ad8874b6f29360a.png"
+      ],
+      "O1IS": [
+        3629501
+      ],
+      "O1R": "Брайан Норман-младший (США)",
+      "O2": "Devin Haney",
+      "O2C": 153,
+      "O2E": "Devin Haney",
+      "O2I": 1625945,
+      "O2IMG": [
+        "1625945.png"
+      ],
+      "O2IS": [
+        1625945
+      ],
+      "O2R": "Девин Хейни (США)",
+      "PN": "",
+      "S": 1763866800,
+      "SE": "Boxing",
+      "SGI": "687a99f89930a40b3c7b7d97",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "679fd1799930a40b3c55360c",
+      "SmI": 60149,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 6020446,
+      "IG": true
+    },
+    {
+      "AE": [
+        {
+          "G": 17,
+          "ME": [
+            {
+              "C": 1.615,
+              "G": 17,
+              "P": 7.5,
+              "T": 9
+            },
+            {
+              "C": 2.11,
+              "G": 17,
+              "P": 7.5,
+              "T": 10
+            },
+            {
+              "C": 1.81,
+              "CE": 1,
+              "G": 17,
+              "P": 8.5,
+              "T": 9
+            },
+            {
+              "C": 1.87,
+              "CE": 1,
+              "G": 17,
+              "P": 8.5,
+              "T": 10
+            },
+            {
+              "C": 1.92,
+              "G": 17,
+              "P": 9.5,
+              "T": 9
+            },
+            {
+              "C": 1.75,
+              "G": 17,
+              "P": 9.5,
+              "T": 10
+            }
+          ]
+        }
+      ],
+      "CHIMG": "e99e8d38619020658c91d44bb3549987.png",
+      "CI": 270355636,
+      "CID": 2,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.088,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 20,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 7.6,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.034,
+          "G": 8,
+          "T": 4
+        },
+        {
+          "C": 5.6,
+          "G": 8,
+          "T": 6
+        },
+        {
+          "C": 1.069,
+          "G": 8389,
+          "T": 7736
+        },
+        {
+          "C": 6.85,
+          "G": 8389,
+          "T": 7737
+        },
+        {
+          "C": 1.81,
+          "CE": 1,
+          "G": 17,
+          "P": 8.5,
+          "T": 9
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 17,
+          "P": 8.5,
+          "T": 10
+        }
+      ],
+      "EC": 74,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 637506299,
+      "KI": 3,
+      "L": "Fights",
+      "LE": "Fights",
+      "LI": 318137,
+      "LR": "Бои",
+      "MIO": {
+        "Loc": "ANB Arena (Riyadh)",
+        "TSt": "Fight for World Champion title by WBC in Light Heavyweight"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Fight for World Champion title by WBC in Light Heavyweight"
+        },
+        {
+          "K": 2,
+          "V": "ANB Arena (Riyadh)"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 242258,
+      "O1": "David Benavidez",
+      "O1C": 153,
+      "O1E": "David Benavidez",
+      "O1I": 368347,
+      "O1IMG": [
+        "368347.png"
+      ],
+      "O1IS": [
+        368347
+      ],
+      "O1R": "Давид Бенавидес (США)",
+      "O2": "Anthony Yarde",
+      "O2C": 231,
+      "O2E": "Anthony Yarde",
+      "O2I": 362709,
+      "O2IMG": [
+        "362709.png"
+      ],
+      "O2IS": [
+        362709
+      ],
+      "O2R": "Энтони Ярд (Вел)",
+      "PN": "",
+      "S": 1763870400,
+      "SE": "Boxing",
+      "SGI": "687d39949930a40b3c364c11",
+      "SI": 9,
+      "SN": "Boxing",
+      "SR": "Бокс",
+      "SS": 2,
+      "SSI": 0,
+      "STI": "687d39949930a40b3c364dd1",
+      "SmI": 60149,
+      "TG": "",
+      "TN": "Round",
+      "TNS": "Rounds",
+      "V": "",
+      "VE": "",
+      "B": 6024046
+    }
+  ]
+}

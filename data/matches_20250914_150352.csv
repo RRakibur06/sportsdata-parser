@@ -1,0 +1,51 @@
+Match,Sport,League,Country,Start Time,Home Team,Away Team,Home Win Odds,Draw Odds,Away Win Odds,Venue,Is Live
+England vs South Africa,Cricket,England vs South Africa,World,2025-09-14T19:30:00,England,South Africa,1.511,25.0,2.647,Nottinghamshire Spots Club (Nottingham),False
+Caribbean Premier League,Cricket,Caribbean Premier League,World,2025-09-15T05:00:00,Guyana Amazon Warriors,Barbados Royals,1.643,25.0,2.292,Providence Stadium (Georgetown),False
+England. Premier League,Football,England. Premier League,England,2025-09-14T19:00:00,Burnley,Liverpool,8.7,5.52,1.369,Turf Moor (Burnley),False
+England. Premier League,Football,England. Premier League,England,2025-09-14T21:30:00,Manchester City,Manchester United,1.803,4.25,4.435,Etihad (Manchester),False
+Germany. Bundesliga,Football,Germany. Bundesliga,Germany,2025-09-14T19:30:00,St. Pauli,Augsburg,2.172,3.545,3.665,Millerntor (Hamburg),False
+Germany. Bundesliga,Football,Germany. Bundesliga,Germany,2025-09-14T21:30:00,Borussia Monchengladbach,Werder Bremen,1.999,4.305,3.535,Borussia-Park (Monchengladbach),False
+Spain. La Liga,Football,Spain. La Liga,Spain,2025-09-14T18:00:00,Celta,Girona,1.671,4.2,5.58,Balaídos (Vigo),False
+Spain. La Liga,Football,Spain. La Liga,Spain,2025-09-14T20:15:00,Levante UD,Real Betis,3.38,3.765,2.202,Ciudad de Valencia (Valencia),False
+Spain. La Liga,Football,Spain. La Liga,Spain,2025-09-14T22:30:00,Osasuna,Rayo Vallecano,2.707,3.125,3.065,El Sadar (Pamplona),False
+Spain. La Liga,Football,Spain. La Liga,Spain,2025-09-15T01:00:00,Barcelona,Valencia,1.33,6.24,9.65,Camp Nou (Barcelona),False
+Italy. Serie A,Football,Italy. Serie A,Italy,2025-09-14T16:30:00,Roma,Torino,1.547,4.38,7.11,Stadio Olimpico (Roma),False
+Italy. Serie A,Football,Italy. Serie A,Italy,2025-09-14T19:00:00,Atalanta,Lecce,1.421,4.96,9.05,Gewiss Stadium (Bergamo),False
+Italy. Serie A,Football,Italy. Serie A,Italy,2025-09-14T19:00:00,Pisa 1909,Udinese Calcio,2.895,3.13,2.853,Arena Garibaldi - Stadio Romeo Anconetani (Pisa),False
+Italy. Serie A,Football,Italy. Serie A,Italy,2025-09-14T22:00:00,Sassuolo Calcio,Lazio,3.645,3.645,2.142,Mapei Stadium – Città del Tricolore (Reggio Emilia),False
+Italy. Serie A,Football,Italy. Serie A,Italy,2025-09-15T00:45:00,Milan,Bologna 1909,1.948,3.555,4.53,Giuseppe Meazza (Milan),False
+Russia. Premier League,Football,Russia. Premier League,Russia,2025-09-14T17:30:00,Krylia Sovetov,Sochi,2.224,3.535,3.535,Samara Arena (Samara),False
+Russia. Premier League,Football,Russia. Premier League,Russia,2025-09-14T20:00:00,Baltika Kaliningrad,Zenit Saint Petersburg,4.815,3.535,1.906,Rostec Arena (Kaliningrad),False
+Russia. Premier League,Football,Russia. Premier League,Russia,2025-09-14T22:30:00,Rostov,CSKA Moscow,3.36,3.565,2.286,Rostov Arena (Rostov on Don),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-14T19:00:00,Lille OSC,Toulouse,1.913,3.885,4.245,Pierre-Mauroy (Villeneuve-d'Ascq),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-14T21:15:00,Metz,Angers SCO,2.326,3.43,3.4,Stade Saint-Symphorien (Longeville-les-Metz),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-14T21:15:00,Paris Saint-Germain,RC Lens,1.394,5.84,7.85,Parc des Princes (Paris),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-14T21:15:00,Stade Brestois 29,Paris,2.625,3.605,2.799,Stade Francis-Le Ble (Brest),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-14T21:15:00,Strasbourg,Le Havre,1.811,3.99,4.705,Stade de la Meinau (Strasbourg),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-15T00:45:00,Stade Rennais,Lyon,2.46,3.71,2.947,Roazhon Park (Rennes),False
+Netherlands. Eredivisie,Football,Netherlands. Eredivisie,Netherlands,2025-09-14T16:15:00,Excelsior,Sparta Rotterdam,2.429,3.62,2.824,Woudestein (Rotterdam),False
+Netherlands. Eredivisie,Football,Netherlands. Eredivisie,Netherlands,2025-09-14T18:30:00,Heracles Almelo,AZ Alkmaar,5.72,4.605,1.539,Erve Asito (Almelo),False
+Netherlands. Eredivisie,Football,Netherlands. Eredivisie,Netherlands,2025-09-14T18:30:00,Utrecht,Groningen,1.762,3.785,4.76,Galgenwaard (Utrecht),False
+Netherlands. Eredivisie,Football,Netherlands. Eredivisie,Netherlands,2025-09-14T20:45:00,Telstar,Fortuna Sittard,2.338,3.46,3.075,711 Stadion (Velsen-Zuid),False
+Portugal. Primeira Liga,Football,Portugal. Primeira Liga,Portugal,2025-09-14T20:30:00,Estrela da Amadora,Vitoria Guimaraes,3.055,3.1,2.49,Jose Gomes (Amadora),False
+Portugal. Primeira Liga,Football,Portugal. Primeira Liga,Portugal,2025-09-14T23:00:00,Arouca,Casa Pia,2.03,3.24,4.02,Municipal de Arouca (Arouca),False
+Portugal. Primeira Liga,Football,Portugal. Primeira Liga,Portugal,2025-09-15T01:30:00,Braga,Gil Vicente,1.57,4.05,6.0,Municipal (Braga),False
+Kontinental Hockey League,Ice Hockey,Kontinental Hockey League,World,2025-09-14T17:00:00,Neftekhimik,Lokomotiv Yaroslavl,4.42,4.3,1.72,Neftekhimik Ice Palace (Nizhnekamsk),False
+Kontinental Hockey League,Ice Hockey,Kontinental Hockey League,World,2025-09-14T20:00:00,Ak Bars Kazan,Metallurg Magnitogorsk,2.4,4.1,2.75,TatNeft Arena (Kazan),False
+Kontinental Hockey League,Ice Hockey,Kontinental Hockey League,World,2025-09-14T20:00:00,Severstal Cherepovets,CSKA Moscow,2.899,3.95,2.3,Ice Palace (Cherepovets),False
+Kontinental Hockey League,Ice Hockey,Kontinental Hockey League,World,2025-09-14T20:00:00,SKA Saint Petersburg,Lada Togliatti,1.67,4.3,4.885,Ice Palace (Saint Petersburg),False
+Kontinental Hockey League,Ice Hockey,Kontinental Hockey League,World,2025-09-14T20:00:00,Sochi,Traktor Chelyabinsk,4.42,4.2,1.76,Bolshoy Ice Dome (Sochi),False
+Kontinental Hockey League,Ice Hockey,Kontinental Hockey League,World,2025-09-14T20:00:00,Spartak Moscow,Torpedo Nizhny Novgorod,1.97,4.2,3.62,Megasport Sport Palace (Moscow),False
+Naoya Inoue vs Murodjon Akhmadaliev,Boxing,Naoya Inoue vs Murodjon Akhmadaliev,World,2025-09-14T17:00:00,Naoya Inoue,Murodjon Akhmadaliev,1.178,28.0,5.24,Aichi International Arena (Nagoya),False
+WNBA,Basketball,WNBA,United States,2025-09-14T23:00:00,Minnesota Lynx (Women),Golden State Valkyries (Women),,,,Target Center (Minneapolis),False
+WNBA,Basketball,WNBA,United States,2025-09-15T01:00:00,Atlanta Dream (Women),Indiana Fever (Women),,,,Gateway Center (College Park),False
+FIBA EuroBasket,Basketball,FIBA EuroBasket,Europe,2025-09-14T20:00:00,Greece,Finland,,,,Xiaomi Arena (Riga),False
+FIBA EuroBasket,Basketball,FIBA EuroBasket,Europe,2025-09-15T00:00:00,Turkey,Germany,,,,Xiaomi Arena (Riga),False
+USA. MLB,Baseball,USA. MLB,United States,2025-09-14T21:35:00,Washington Nationals,Pittsburgh Pirates,1.871,,1.972,National Park (Washington),False
+USA. MLB,Baseball,USA. MLB,United States,2025-09-14T23:35:00,Atlanta Braves,Houston Astros,2.16,,1.728,Truist Park (Atlanta),False
+USA. MLB,Baseball,USA. MLB,United States,2025-09-14T23:35:00,Philadelphia Phillies,Kansas City Royals,1.622,,2.351,Citizens Bank Park (Philadelphia),False
+USA. MLB,Baseball,USA. MLB,United States,2025-09-14T23:37:00,Toronto Blue Jays,Baltimore Orioles,1.549,,2.525,Rogers Centre (Toronto),False
+USA. MLB,Baseball,USA. MLB,United States,2025-09-14T23:40:00,Cleveland Guardians,Chicago White Sox,1.589,,2.424,Progressive Field (Cleveland),False
+USA. MLB,Baseball,USA. MLB,United States,2025-09-14T23:40:00,Miami Marlins,Detroit Tigers,2.173,,1.72,Loan Depot (Miami),False
+UEFA Champions League,Football,UEFA Champions League,Europe,2025-09-18T01:00:00,Paris Saint-Germain,Atalanta,1.368,5.29,8.15,Parc des Princes (Paris),False
+France. Ligue 1,Football,France. Ligue 1,France,2025-09-22T00:45:00,Olympique de Marseille,Paris Saint-Germain,3.895,3.945,1.979,Velodrome (Marseille),False

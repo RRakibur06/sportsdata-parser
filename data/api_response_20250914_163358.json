@@ -1,0 +1,7482 @@
+{
+  "Error": "",
+  "ErrorCode": 0,
+  "Guid": "",
+  "Id": 0,
+  "Success": true,
+  "Value": [
+    {
+      "AE": [],
+      "CHIMG": "e480d34c338ae2e0c05a467f4105e2df.png",
+      "CI": 278722579,
+      "CID": 1,
+      "CN": "Asia",
+      "COI": 229,
+      "E": [
+        {
+          "C": 3.135,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.377,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 3.125,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.375,
+          "G": 101,
+          "T": 402
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 15,
+          "P": 143.5,
+          "T": 11
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 15,
+          "P": 143.5,
+          "T": 12
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 62,
+          "P": 155.5,
+          "T": 13
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 62,
+          "P": 155.5,
+          "T": 14
+        }
+      ],
+      "EC": 546,
+      "GLI": 133,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653386828,
+      "KI": 3,
+      "L": "Asia Cup",
+      "LE": "Asia Cup",
+      "LI": 1147567,
+      "LR": "Кубок Азии",
+      "MIO": {
+        "Loc": "Sheikh Zayed Stadium (Abu Dhabi)",
+        "MaF": "T20",
+        "TSt": "Group stage. Group B"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Group stage. Group B"
+        },
+        {
+          "K": 2,
+          "V": "Sheikh Zayed Stadium (Abu Dhabi)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+34°C"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "16"
+        },
+        {
+          "K": 23,
+          "V": "4.2"
+        },
+        {
+          "K": 24,
+          "V": "NNW wind m/s"
+        },
+        {
+          "K": 25,
+          "V": "753"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "68"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "3"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 161887,
+      "O1": "Bangladesh",
+      "O1C": 19,
+      "O1E": "Bangladesh",
+      "O1I": 34529,
+      "O1IMG": [
+        "34529.png"
+      ],
+      "O1IS": [
+        34529
+      ],
+      "O1R": "Бангладеш",
+      "O2": "Afghanistan",
+      "O2C": 17,
+      "O2E": "Afghanistan",
+      "O2I": 37515,
+      "O2IMG": [
+        "37515.png"
+      ],
+      "O2IS": [
+        37515
+      ],
+      "O2R": "Афганистан",
+      "PN": "",
+      "S": 1758033000,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "68ada8009930a40b3c3a4ceb",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68a6c5e59930a40b3c240435",
+      "SUBA": true,
+      "SmI": 15837,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 186962,
+      "IG": true,
+      "WP": {
+        "P1": 0.29,
+        "P2": 0.67,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "4dc2117ddc2dc382fca45e049ddacf2b.png",
+      "CI": 266402310,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 2.658,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.422,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.65,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.42,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 32,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 630432895,
+      "KI": 3,
+      "L": "ICC. World Cup. 2025. Women",
+      "LE": "ICC. World Cup. 2025. Women",
+      "LI": 2840522,
+      "LR": "ICC. Чемпионат Мира. 2025. Женщины",
+      "MIO": {
+        "Loc": "R. Premadasa (Colombo)",
+        "MaF": "ODI",
+        "TSt": "Group stage"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Group stage"
+        },
+        {
+          "K": 2,
+          "V": "R. Premadasa (Colombo)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 168582,
+      "O1": "Bangladesh (Women)",
+      "O1C": 19,
+      "O1E": "Bangladesh (Women)",
+      "O1I": 47367,
+      "O1IMG": [
+        "47367.png"
+      ],
+      "O1IS": [
+        47367
+      ],
+      "O1R": "Бангладеш (жен)",
+      "O2": "Pakistan (Women)",
+      "O2C": 141,
+      "O2E": "Pakistan (Women)",
+      "O2I": 47623,
+      "O2IMG": [
+        "47623.png"
+      ],
+      "O2IS": [
+        47623
+      ],
+      "O2R": "Пакистан (жен)",
+      "PN": "",
+      "S": 1759397400,
+      "SE": "Cricket",
+      "SGI": "685015599930a40b3cdfaed1",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "6850154a9930a40b3cdc6a7d",
+      "SUBA": true,
+      "SmI": 9119,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 1551362,
+      "WP": {
+        "P1": 0.34,
+        "P2": 0.64,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278794272,
+      "CID": 1,
+      "CN": "Bangladesh",
+      "COI": 19,
+      "E": [
+        {
+          "C": 1.67,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.105,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.667,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.1,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653484928,
+      "KI": 3,
+      "L": "Bangladesh. National League",
+      "LE": "Bangladesh. National League",
+      "LI": 2478176,
+      "LR": "Бангладеш. Национальная лига",
+      "MIO": {
+        "Loc": "Rajshahi District (Rajshahi)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Rajshahi District (Rajshahi)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 11,
+          "V": "Bangladesh"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 207358,
+      "O1": "Khulna Division",
+      "O1C": 225,
+      "O1E": "Khulna Division",
+      "O1I": 6760733,
+      "O1IMG": [
+        "b3159fdbcbf027ef210f642ae7bcb0ac.png"
+      ],
+      "O1IS": [
+        6760733
+      ],
+      "O1R": "Кхулна Дивизион",
+      "O2": "Chattogram Division",
+      "O2C": 19,
+      "O2E": "Chattogram Division",
+      "O2I": 7094233,
+      "O2IMG": [
+        "4a3b49ab355efcc25e24db0c7cc8d2a0.png"
+      ],
+      "O2IS": [
+        7094233
+      ],
+      "O2R": "Чаттограм Дивизион",
+      "PN": "",
+      "S": 1757921400,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 41321,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 75362,
+      "WP": {
+        "P1": 0.54,
+        "P2": 0.43,
+        "PX": 0.03
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "f33bd6c9355dcbcf503ef30652198815.png",
+      "CI": 278703171,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "DI": "5th match T20",
+      "E": [
+        {
+          "C": 1.452,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.507,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.45,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.5,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 35,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 653318906,
+      "KI": 3,
+      "L": "Eswatini vs Mozambique",
+      "LE": "Eswatini vs Mozambique",
+      "LI": 2903626,
+      "LR": "Эсватини vs Мозамбик",
+      "MIO": {
+        "Loc": "Malkerns Country Club (Malkerns)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Malkerns Country Club (Malkerns)"
+        },
+        {
+          "K": 9,
+          "V": "+23°C"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "5"
+        },
+        {
+          "K": 23,
+          "V": "4.4"
+        },
+        {
+          "K": 24,
+          "V": "E wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "762"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "59"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "19"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 245217,
+      "O1": "Eswatini",
+      "O1C": 225,
+      "O1E": "Eswatini",
+      "O1I": 5748345,
+      "O1IMG": [
+        "9755b2c10eb8a56c57b1cc4e90394e9c.png"
+      ],
+      "O1IS": [
+        5748345
+      ],
+      "O1R": "Эсватини",
+      "O2": "Mozambique",
+      "O2C": 225,
+      "O2E": "Mozambique",
+      "O2I": 5824689,
+      "O2IMG": [
+        "552edfb7cb9a343ccce4c6f08508c1b3.png"
+      ],
+      "O2IS": [
+        5824689
+      ],
+      "O2R": "Мозамбик",
+      "PN": "",
+      "S": 1757847600,
+      "SE": "Cricket",
+      "SGI": "68c4b6d79930a40b3c5eae3a",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "66750c3d0d8c0bfbf1aee4ef",
+      "SUBA": true,
+      "SmI": 63354,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 1562,
+      "WP": {
+        "P1": 0.61,
+        "P2": 0.35,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278483585,
+      "CID": 1,
+      "CN": "Rwanda",
+      "COI": 151,
+      "E": [
+        {
+          "C": 1.804,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.904,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.8,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 35,
+      "HSI": true,
+      "I": 652861584,
+      "KI": 3,
+      "L": "Rwanda. Premier League",
+      "LE": "Rwanda. Premier League",
+      "LI": 2586672,
+      "LR": "Руанда. Премьер Лига",
+      "MIO": {
+        "Loc": "Gahanga Cricket Stadium (Kigali)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Gahanga Cricket Stadium (Kigali)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+28°C"
+        },
+        {
+          "K": 11,
+          "V": "Rwanda"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "7"
+        },
+        {
+          "K": 23,
+          "V": "3.9"
+        },
+        {
+          "K": 24,
+          "V": "SE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "757"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "38"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "3"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 237515,
+      "O1": "Right Guards CC",
+      "O1C": 225,
+      "O1E": "Right Guards CC",
+      "O1I": 7463137,
+      "O1IMG": [
+        "daec1661bc3c59fb33c7e8c213045d48.png"
+      ],
+      "O1IS": [
+        7463137
+      ],
+      "O1R": "Райт Гуардс СС",
+      "O2": "Indorwa CC",
+      "O2C": 151,
+      "O2E": "Indorwa CC",
+      "O2I": 8378869,
+      "O2IMG": [
+        "4c2b6ec212326a83116a656a670975a1.png"
+      ],
+      "O2IS": [
+        8378869
+      ],
+      "O2R": "Индорва СС",
+      "PN": "",
+      "S": 1757847600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 39364,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 1562,
+      "IG": true,
+      "WP": {
+        "P1": 0.5,
+        "P2": 0.47,
+        "PX": 0.03
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "2469a2eb4d35e09be53d49b43de09ece.png",
+      "CI": 278583532,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "DI": "Third Match, T20",
+      "E": [
+        {
+          "C": 1.516,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.631,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.514,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.624,
+          "G": 101,
+          "T": 402
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 15,
+          "P": 185.5,
+          "T": 11
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 15,
+          "P": 185.5,
+          "T": 12
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 62,
+          "P": 177.5,
+          "T": 13
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 62,
+          "P": 177.5,
+          "T": 14
+        }
+      ],
+      "EC": 692,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653072474,
+      "KI": 3,
+      "L": "England vs South Africa",
+      "LE": "England vs South Africa",
+      "LI": 2439634,
+      "LR": "Англия vs ЮАР",
+      "MIO": {
+        "Loc": "Nottinghamshire Spots Club (Nottingham)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Nottinghamshire Spots Club (Nottingham)"
+        },
+        {
+          "K": 9,
+          "V": "+14°C"
+        },
+        {
+          "K": 20,
+          "V": "8"
+        },
+        {
+          "K": 21,
+          "V": "Cloudy, rain"
+        },
+        {
+          "K": 22,
+          "V": "8"
+        },
+        {
+          "K": 23,
+          "V": "4.7"
+        },
+        {
+          "K": 24,
+          "V": "SSE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "755"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "80"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "100"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 170120,
+      "O1": "England",
+      "O1C": 231,
+      "O1E": "England",
+      "O1I": 17995,
+      "O1IMG": [
+        "17995.png"
+      ],
+      "O1IS": [
+        17995
+      ],
+      "O1R": "Англия",
+      "O2": "South Africa",
+      "O2C": 214,
+      "O2E": "South Africa",
+      "O2I": 21873,
+      "O2IMG": [
+        "746d106dcf9f266ddf1c8152ea6e519b.png"
+      ],
+      "O2IS": [
+        21873
+      ],
+      "O2R": "ЮАР",
+      "PN": "",
+      "S": 1757856600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "66c8404b0d8c0bfbf1248e42",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "66750c3d0d8c0bfbf1aee4ef",
+      "SUBA": true,
+      "SmI": 61172,
+      "T": 100,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 10562,
+      "HL": true,
+      "IG": true,
+      "WP": {
+        "P1": 0.61,
+        "P2": 0.35,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278725433,
+      "CID": 1,
+      "CN": "Oman",
+      "COI": 140,
+      "E": [
+        {
+          "C": 1.741,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.1,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.738,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.095,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653369292,
+      "KI": 3,
+      "L": "Oman. D10 League",
+      "LE": "Oman. D10 League",
+      "LI": 2365004,
+      "LR": "Оман. D10 Лига",
+      "MIO": {
+        "Loc": "Oman Cricket Academy Ground (Al Amarat)",
+        "MaF": "T10",
+        "TSt": "Round Robin"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Round Robin"
+        },
+        {
+          "K": 2,
+          "V": "Oman Cricket Academy Ground (Al Amarat)"
+        },
+        {
+          "K": 3,
+          "V": "T10"
+        },
+        {
+          "K": 9,
+          "V": "+34°C"
+        },
+        {
+          "K": 11,
+          "V": "Oman"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "7"
+        },
+        {
+          "K": 23,
+          "V": "7.8"
+        },
+        {
+          "K": 24,
+          "V": "SE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "753"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "45"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 184548,
+      "O1": "IAS Invincibles",
+      "O1C": 140,
+      "O1E": "IAS Invincibles",
+      "O1I": 8890041,
+      "O1IMG": [
+        "7ecdf9ce4059366525a041d290a6dae4.png"
+      ],
+      "O1IS": [
+        8890041
+      ],
+      "O1R": "ИАС Инвисиблс",
+      "O2": "Majees Titans",
+      "O2C": 140,
+      "O2E": "Majees Titans",
+      "O2I": 8890053,
+      "O2IMG": [
+        "e098c55e68b0656bbcbaacbea39409d4.png"
+      ],
+      "O2IS": [
+        8890053
+      ],
+      "O2R": "Маджиес Титанс",
+      "PN": "",
+      "S": 1757857500,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 38333,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 11462,
+      "IG": true,
+      "WP": {
+        "P1": 0.53,
+        "P2": 0.44,
+        "PX": 0.03
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278801735,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 1.522,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.541,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.52,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.533,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653500671,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "NY Ovals (Schenectady)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "NY Ovals (Schenectady)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+20°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "14"
+        },
+        {
+          "K": 23,
+          "V": "2.8"
+        },
+        {
+          "K": 24,
+          "V": "WNW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "763"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "71"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 162715,
+      "O1": "New Jersey Somerset Cavaliers",
+      "O1C": 225,
+      "O1E": "New Jersey Somerset Cavaliers",
+      "O1I": 6368929,
+      "O1IMG": [
+        "74b12885203eb9a44d6c8c68de0e65de.png"
+      ],
+      "O1IS": [
+        6368929
+      ],
+      "O1R": "Нью-Джерси Сомерсет Кавальерс",
+      "O2": "The Philadelphians",
+      "O2C": 225,
+      "O2E": "The Philadelphians",
+      "O2I": 6368933,
+      "O2IMG": [
+        "170f285457c08edb5fd1ac6a3f44a509.png"
+      ],
+      "O2IS": [
+        6368933
+      ],
+      "O2R": "Филадельфианс",
+      "PN": "",
+      "S": 1757858400,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 57438,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 12362,
+      "WP": {
+        "P1": 0.6,
+        "P2": 0.36,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278764256,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 8.1,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.078,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 8.05,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.077,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653435922,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Moosa Cricket (Pearland)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Moosa Cricket (Pearland)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+22°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "1"
+        },
+        {
+          "K": 23,
+          "V": "0.8"
+        },
+        {
+          "K": 24,
+          "V": "N wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "763"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "70"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 225558,
+      "O1": "Michigan Stars",
+      "O1C": 225,
+      "O1E": "Michigan Stars",
+      "O1I": 6368847,
+      "O1IMG": [
+        "102abb8f8c938488eb22c7e3c7ec65ea.png"
+      ],
+      "O1IS": [
+        6368847
+      ],
+      "O1R": "Мичиган Старз",
+      "O2": "Chicago Kingsmen",
+      "O2C": 225,
+      "O2E": "Chicago Kingsmen",
+      "O2I": 7776173,
+      "O2IMG": [
+        "0f243bc51e2e95e40f4cb63d90f60cbe.png"
+      ],
+      "O2IS": [
+        7776173
+      ],
+      "O2R": "Чикаго Кингсмен",
+      "PN": "",
+      "S": 1757859300,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 42391,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 13262,
+      "IG": true,
+      "WP": {
+        "P1": 0.11,
+        "P2": 0.85,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278801737,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 1.089,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 7.5,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.088,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 7.49,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653502068,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Mercer County Park (West Windsor)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Mercer County Park (West Windsor)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+23°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "2"
+        },
+        {
+          "K": 23,
+          "V": "1.7"
+        },
+        {
+          "K": 24,
+          "V": "NNE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "763"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "68"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 162718,
+      "O1": "New Jersey Stallions",
+      "O1C": 225,
+      "O1E": "New Jersey Stallions",
+      "O1I": 5693245,
+      "O1IMG": [
+        "10939da4c92542cdac3f99f7da2a1834.png"
+      ],
+      "O1IS": [
+        5693245
+      ],
+      "O1R": "Нью-Джерси Стэллионс",
+      "O2": "Manhattan Yorkers",
+      "O2C": 225,
+      "O2E": "Manhattan Yorkers",
+      "O2I": 6368925,
+      "O2IMG": [
+        "5c58564d5867c4baf3692b93de0dfd4c.png"
+      ],
+      "O2IS": [
+        6368925
+      ],
+      "O2R": "Манхэттен Йоркерс",
+      "PN": "",
+      "S": 1757859300,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 50381,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 13262,
+      "WP": {
+        "P1": 0.84,
+        "P2": 0.12,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "e480d34c338ae2e0c05a467f4105e2df.png",
+      "CI": 275431594,
+      "CID": 1,
+      "CN": "Asia",
+      "COI": 229,
+      "E": [
+        {
+          "C": 1.343,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 3.39,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.341,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 3.375,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 649,
+      "GLI": 133,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653110478,
+      "KI": 3,
+      "L": "Asia Cup",
+      "LE": "Asia Cup",
+      "LI": 1147567,
+      "LR": "Кубок Азии",
+      "MIO": {
+        "Loc": "Dubai International Cricket Ground (Dubai)",
+        "MaF": "T20",
+        "TSt": "Group stage. Group A"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Group stage. Group A"
+        },
+        {
+          "K": 2,
+          "V": "Dubai International Cricket Ground (Dubai)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+36°C"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "3"
+        },
+        {
+          "K": 23,
+          "V": "5.3"
+        },
+        {
+          "K": 24,
+          "V": "NE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "753"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "47"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 241716,
+      "O1": "India",
+      "O1C": 71,
+      "O1E": "India",
+      "O1I": 22283,
+      "O1IMG": [
+        "22283.png"
+      ],
+      "O1IS": [
+        22283
+      ],
+      "O1R": "Индия",
+      "O2": "Pakistan",
+      "O2C": 141,
+      "O2E": "Pakistan",
+      "O2I": 27385,
+      "O2IMG": [
+        "27385.png"
+      ],
+      "O2IS": [
+        27385
+      ],
+      "O2R": "Пакистан",
+      "PN": "",
+      "S": 1757860200,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "68a6c5ea9930a40b3c255e46",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68a6c5e59930a40b3c240435",
+      "SUBA": true,
+      "SmI": 12668,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 14162,
+      "HL": true,
+      "IG": true,
+      "WP": {
+        "P1": 0.69,
+        "P2": 0.27,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278804723,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 3.33,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.332,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 3.325,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.33,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653505594,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "American Cricket Academy & Club Park (St. Louis)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "American Cricket Academy & Club Park (St. Louis)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+29°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "14"
+        },
+        {
+          "K": 23,
+          "V": "1.7"
+        },
+        {
+          "K": 24,
+          "V": "WNW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "761"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "58"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 189008,
+      "O1": "Chicago Tigers",
+      "O1C": 225,
+      "O1E": "Chicago Tigers",
+      "O1I": 6600399,
+      "O1IMG": [
+        "7aeeb01a75a48b64409ef3d16123b9b8.png"
+      ],
+      "O1IS": [
+        6600399
+      ],
+      "O1R": "Чикаго Тайгерс",
+      "O2": "St. Louis Americans",
+      "O2C": 225,
+      "O2E": "St. Louis Americans",
+      "O2I": 6368849,
+      "O2IMG": [
+        "57a2427f4f04ea43654431863d0ad121.png"
+      ],
+      "O2IS": [
+        6368849
+      ],
+      "O2R": "Сент-Луис Американс",
+      "PN": "",
+      "S": 1757862000,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 57309,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 15962,
+      "WP": {
+        "P1": 0.28,
+        "P2": 0.69,
+        "PX": 0.03
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278728815,
+      "CID": 1,
+      "CN": "Oman",
+      "COI": 140,
+      "E": [
+        {
+          "C": 1.273,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 3.775,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.271,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 3.76,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653375521,
+      "KI": 3,
+      "L": "Oman. D10 League",
+      "LE": "Oman. D10 League",
+      "LI": 2365004,
+      "LR": "Оман. D10 Лига",
+      "MIO": {
+        "Loc": "Oman Cricket Academy Ground (Al Amarat)",
+        "MaF": "T10",
+        "TSt": "Round Robin"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Round Robin"
+        },
+        {
+          "K": 2,
+          "V": "Oman Cricket Academy Ground (Al Amarat)"
+        },
+        {
+          "K": 3,
+          "V": "T10"
+        },
+        {
+          "K": 9,
+          "V": "+32°C"
+        },
+        {
+          "K": 11,
+          "V": "Oman"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "7"
+        },
+        {
+          "K": 23,
+          "V": "7.8"
+        },
+        {
+          "K": 24,
+          "V": "SE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "754"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "50"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 211095,
+      "O1": "Yalla Shabab Giants",
+      "O1C": 140,
+      "O1E": "Yalla Shabab Giants",
+      "O1I": 8890043,
+      "O1IMG": [
+        "0c2b742cc1b42e1fe44194a5fab5df34.png"
+      ],
+      "O1IS": [
+        8890043
+      ],
+      "O1R": "Ялла Шабаб Джайентс",
+      "O2": "Muscat Thunderers",
+      "O2C": 140,
+      "O2E": "Muscat Thunderers",
+      "O2I": 8890049,
+      "O2IMG": [
+        "71b21b026aab1bf8f42a8fdbbe031175.png"
+      ],
+      "O2IS": [
+        8890049
+      ],
+      "O2R": "Мускат Тандерерс",
+      "PN": "",
+      "S": 1757865600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 38333,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 19562,
+      "IG": true,
+      "WP": {
+        "P1": 0.72,
+        "P2": 0.24,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278804725,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 7.5,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.089,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 7.49,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.088,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653504258,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Church Street Park (Morrisville)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Church Street Park (Morrisville)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+22°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "15"
+        },
+        {
+          "K": 23,
+          "V": "2.2"
+        },
+        {
+          "K": 24,
+          "V": "NW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "763"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "62"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "5"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 189018,
+      "O1": "Ft. Lauderdale Lions",
+      "O1C": 225,
+      "O1E": "Ft. Lauderdale Lions",
+      "O1I": 6368901,
+      "O1IMG": [
+        "3ca0a0bfd1ddf1dddf212e42cdfa8ed0.png"
+      ],
+      "O1IS": [
+        6368901
+      ],
+      "O1R": "Фт. Лодердейл Лайонс",
+      "O2": "Baltimore Royals",
+      "O2C": 225,
+      "O2E": "Baltimore Royals",
+      "O2I": 7635949,
+      "O2IMG": [
+        "07032ef7ac328d3d2c965ad5350cb9d8.png"
+      ],
+      "O2IS": [
+        7635949
+      ],
+      "O2R": "Балтимор Роялс",
+      "PN": "",
+      "S": 1757870100,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 39086,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 24062,
+      "WP": {
+        "P1": 0.12,
+        "P2": 0.84,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "12f140339879c2fea5091923a2a0ab24.png",
+      "CI": 278763161,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 2.146,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.727,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.141,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.724,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 345,
+      "GLI": 104,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653434182,
+      "KI": 3,
+      "L": "Caribbean Premier League. Women",
+      "LE": "Caribbean Premier League. Women",
+      "LI": 2445215,
+      "LR": "Карибская Премьер-лига. Женщины",
+      "MIO": {
+        "Loc": "Providence Stadium (Georgetown)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Providence Stadium (Georgetown)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+31°C"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "5"
+        },
+        {
+          "K": 23,
+          "V": "6.4"
+        },
+        {
+          "K": 24,
+          "V": "E wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "758"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "63"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "12"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 217696,
+      "O1": "Guyana Amazon Warriors (Women)",
+      "O1C": 46,
+      "O1E": "Guyana Amazon Warriors (Women)",
+      "O1I": 6708639,
+      "O1IMG": [
+        "e88dbc1ad241079ef9506a7951871374.png"
+      ],
+      "O1IS": [
+        6708639
+      ],
+      "O1R": "Гайана Амазон Уарриорз (жен)",
+      "O2": "Barbados Royals (Women)",
+      "O2C": 20,
+      "O2E": "Barbados Royals (Women)",
+      "O2I": 6708637,
+      "O2IMG": [
+        "58194108a1bacc8a34b10ba342cea8d2.png"
+      ],
+      "O2IS": [
+        6708637
+      ],
+      "O2R": "Барбадос Роялс (жен)",
+      "PN": "",
+      "S": 1757872800,
+      "SE": "Cricket",
+      "SGC": 1,
+      "SGI": "686f79449930a40b3c072c0d",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "686f79449930a40b3c072d5a",
+      "SUBA": true,
+      "SmI": 8042,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 26762,
+      "IG": true,
+      "WP": {
+        "P1": 0.43,
+        "P2": 0.53,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278728816,
+      "CID": 1,
+      "CN": "Oman",
+      "COI": 140,
+      "E": [
+        {
+          "C": 1.273,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 3.775,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.271,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 3.76,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653375522,
+      "KI": 3,
+      "L": "Oman. D10 League",
+      "LE": "Oman. D10 League",
+      "LI": 2365004,
+      "LR": "Оман. D10 Лига",
+      "MIO": {
+        "Loc": "Oman Cricket Academy Ground (Al Amarat)",
+        "MaF": "T10",
+        "TSt": "Round Robin"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Round Robin"
+        },
+        {
+          "K": 2,
+          "V": "Oman Cricket Academy Ground (Al Amarat)"
+        },
+        {
+          "K": 3,
+          "V": "T10"
+        },
+        {
+          "K": 9,
+          "V": "+30°C"
+        },
+        {
+          "K": 11,
+          "V": "Oman"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "7"
+        },
+        {
+          "K": 23,
+          "V": "8.3"
+        },
+        {
+          "K": 24,
+          "V": "SE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "755"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "59"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 211096,
+      "O1": "Royal Oman Stallions",
+      "O1C": 140,
+      "O1E": "Royal Oman Stallions",
+      "O1I": 8890047,
+      "O1IMG": [
+        "d506f420d3bb3b3ef5fff51db262fcc4.png"
+      ],
+      "O1IS": [
+        8890047
+      ],
+      "O1R": "Роял Оман Сталионс",
+      "O2": "Renaissance Challengers",
+      "O2C": 140,
+      "O2E": "Renaissance Challengers",
+      "O2I": 8890055,
+      "O2IMG": [
+        "61765e4d88459e66b5fd842d204045d0.png"
+      ],
+      "O2IS": [
+        8890055
+      ],
+      "O2R": "Ренессанс Челленджерс",
+      "PN": "",
+      "S": 1757872800,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 38333,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 26762,
+      "IG": true,
+      "WP": {
+        "P1": 0.72,
+        "P2": 0.24,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278801736,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 1.904,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.904,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653502617,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Tollgate Farms (North Bend)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Tollgate Farms (North Bend)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+17°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "8"
+        },
+        {
+          "K": 21,
+          "V": "Cloudy, rain"
+        },
+        {
+          "K": 22,
+          "V": "10"
+        },
+        {
+          "K": 23,
+          "V": "1.9"
+        },
+        {
+          "K": 24,
+          "V": "SSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "759"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "92"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "93"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 162717,
+      "O1": "Silicon Valley Strikers",
+      "O1C": 225,
+      "O1E": "Silicon Valley Strikers",
+      "O1I": 5694785,
+      "O1IMG": [
+        "b3206ed437aaf40fc1368854507e02ba.png"
+      ],
+      "O1IS": [
+        5694785
+      ],
+      "O1R": "Силикон Вэлли Страйкерс",
+      "O2": "Seattle Thunderbolts",
+      "O2C": 225,
+      "O2E": "Seattle Thunderbolts",
+      "O2I": 6368863,
+      "O2IMG": [
+        "66e0288180b9bed0f45024acfa0f63d9.png"
+      ],
+      "O2IS": [
+        6368863
+      ],
+      "O2R": "Сиэтл Тандерболтс",
+      "PN": "",
+      "S": 1757874600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 50495,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 28562,
+      "WP": {
+        "P1": 0.48,
+        "P2": 0.48,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278773026,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 2.515,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.531,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.508,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.529,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653449336,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Moosa Cricket (Pearland)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Moosa Cricket (Pearland)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+28°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "6"
+        },
+        {
+          "K": 23,
+          "V": "2.2"
+        },
+        {
+          "K": 24,
+          "V": "ESE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "762"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "49"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 231472,
+      "O1": "Lone Star Athletics",
+      "O1C": 225,
+      "O1E": "Lone Star Athletics",
+      "O1I": 6588605,
+      "O1IMG": [
+        "1f175df4dd67746500c8911fe43fb3cf.png"
+      ],
+      "O1IS": [
+        6588605
+      ],
+      "O1R": "Лон Стар Атлетикс",
+      "O2": "Dallas Xforia Giants",
+      "O2C": 225,
+      "O2E": "Dallas Xforia Giants",
+      "O2I": 7794661,
+      "O2IMG": [
+        "8240ebb2de41a2c8bbc60208637050bd.png"
+      ],
+      "O2IS": [
+        7794661
+      ],
+      "O2R": "Даллас Иксфория Джайентс",
+      "PN": "",
+      "S": 1757877300,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 42391,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 31262,
+      "WP": {
+        "P1": 0.36,
+        "P2": 0.6,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278801738,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 1.904,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.904,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653502618,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Canyonside Park (San Diego)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Canyonside Park (San Diego)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+23°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "14"
+        },
+        {
+          "K": 23,
+          "V": "3.9"
+        },
+        {
+          "K": 24,
+          "V": "WNW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "758"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "71"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "2"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 162732,
+      "O1": "Los Angeles Lashings",
+      "O1C": 153,
+      "O1CT": "Los Angeles",
+      "O1E": "Los Angeles Lashings",
+      "O1I": 6368865,
+      "O1IMG": [
+        "410eebd60857ab150215e96334a0d6d1.png"
+      ],
+      "O1IS": [
+        6368865
+      ],
+      "O1R": "Лос-Анджелес Лэшингс",
+      "O2": "San Diego Surf Riders",
+      "O2C": 225,
+      "O2E": "San Diego Surf Riders",
+      "O2I": 6368861,
+      "O2IMG": [
+        "14418ac1d89f6431d7695fd77d9e2f3e.png"
+      ],
+      "O2IS": [
+        6368861
+      ],
+      "O2R": "Сан-Диего Серф Райдерс",
+      "PN": "",
+      "S": 1757883600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 57439,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 37562,
+      "WP": {
+        "P1": 0.48,
+        "P2": 0.48,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278804724,
+      "CID": 1,
+      "CN": "United States",
+      "COI": 153,
+      "E": [
+        {
+          "C": 1.522,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.541,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.52,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.533,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653504777,
+      "KI": 3,
+      "L": "USA. Minor League",
+      "LE": "USA. Minor League",
+      "LI": 2302155,
+      "LR": "США. Минор Лига",
+      "MIO": {
+        "Loc": "Church Street Park (Morrisville)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Church Street Park (Morrisville)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+20°C"
+        },
+        {
+          "K": 11,
+          "V": "USA"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "16"
+        },
+        {
+          "K": 23,
+          "V": "2.2"
+        },
+        {
+          "K": 24,
+          "V": "NNW wind m/s"
+        },
+        {
+          "K": 25,
+          "V": "764"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "64"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "15"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 189013,
+      "O1": "Morrisville Raptors",
+      "O1C": 225,
+      "O1E": "Morrisville Raptors",
+      "O1I": 6600411,
+      "O1IMG": [
+        "d8e0ed3ba94c02ee921a42266037f6e3.png"
+      ],
+      "O1IS": [
+        6600411
+      ],
+      "O1R": "Моррисвилл Рэпторс",
+      "O2": "Orlando Galaxy",
+      "O2C": 225,
+      "O2E": "Orlando Galaxy",
+      "O2I": 6368905,
+      "O2IMG": [
+        "8a27fa94ed971cba718ca41f1096a180.png"
+      ],
+      "O2IS": [
+        6368905
+      ],
+      "O2R": "Орландо Гэлакси",
+      "PN": "",
+      "S": 1757885400,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 39086,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 39362,
+      "WP": {
+        "P1": 0.6,
+        "P2": 0.36,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "9278316ffa330aed28af84b63b5da24a.png",
+      "CI": 278766250,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.192,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 4.75,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.191,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 4.815,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 653438078,
+      "KI": 3,
+      "L": "World Cup. 2026. Women. Qualification",
+      "LE": "World Cup. 2026. Women. Qualification",
+      "LI": 2853249,
+      "LR": "Чемпионат Мира. 2026. Женщины. Квалификация",
+      "MIO": {
+        "Loc": "Albert Park (Suva)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Albert Park (Suva)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+24°C"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "6"
+        },
+        {
+          "K": 23,
+          "V": "5.0"
+        },
+        {
+          "K": 24,
+          "V": "ESE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "765"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "69"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "4"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 158008,
+      "O1": "Cook Islands (Women)",
+      "O1C": 99,
+      "O1E": "Cook Islands (Women)",
+      "O1I": 7838623,
+      "O1IMG": [
+        "de1920703d2d70a9d9002bec58c992a3.png"
+      ],
+      "O1IS": [
+        7838623
+      ],
+      "O1R": "Острова Кука (жен)",
+      "O2": "Philippines (Women)",
+      "O2C": 196,
+      "O2E": "Philippines (Women)",
+      "O2I": 7567337,
+      "O2IMG": [
+        "fc55a1c4eb40acf6eb5fb7cf46642241.png"
+      ],
+      "O2IS": [
+        7567337
+      ],
+      "O2R": "Филиппины (жен)",
+      "PN": "",
+      "S": 1757885400,
+      "SE": "Cricket",
+      "SGI": "68c606c39930a40b3c18fe99",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68be1dff9930a40b3c24b72b",
+      "SUBA": true,
+      "SmI": 48031,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 39362,
+      "IG": true,
+      "WP": {
+        "P1": 0.77,
+        "P2": 0.19,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "9278316ffa330aed28af84b63b5da24a.png",
+      "CI": 278766253,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.467,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.752,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.465,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.744,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 653438077,
+      "KI": 3,
+      "L": "World Cup. 2026. Women. Qualification",
+      "LE": "World Cup. 2026. Women. Qualification",
+      "LI": 2853249,
+      "LR": "Чемпионат Мира. 2026. Женщины. Квалификация",
+      "MIO": {
+        "Loc": "Albert Park (Suva)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Albert Park (Suva)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+24°C"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "6"
+        },
+        {
+          "K": 23,
+          "V": "5.0"
+        },
+        {
+          "K": 24,
+          "V": "ESE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "765"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "69"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "4"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 158050,
+      "O1": "Samoa (Women)",
+      "O1C": 155,
+      "O1E": "Samoa (Women)",
+      "O1I": 6915339,
+      "O1IMG": [
+        "2e67f56e37c0c8d32a61c55d7dcb8d16.png"
+      ],
+      "O1IS": [
+        6915339
+      ],
+      "O1R": "Самоа (жен)",
+      "O2": "Fiji (Women)",
+      "O2C": 225,
+      "O2E": "Fiji (Women)",
+      "O2I": 6915347,
+      "O2IMG": [
+        "226421b3eabb34261a72d5602639bc3a.png"
+      ],
+      "O2IS": [
+        6915347
+      ],
+      "O2R": "Фиджи (жен)",
+      "PN": "",
+      "S": 1757885400,
+      "SE": "Cricket",
+      "SGI": "68c606c39930a40b3c18fd6c",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68be1dff9930a40b3c24b72b",
+      "SUBA": true,
+      "SmI": 48031,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 39362,
+      "IG": true,
+      "WP": {
+        "P1": 0.63,
+        "P2": 0.33,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "e43333dc1f228e9cb0cbcc6ce0469f5b.png",
+      "CI": 278721203,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.643,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.292,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.64,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.286,
+          "G": 101,
+          "T": 402
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 15,
+          "P": 157.5,
+          "T": 11
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 15,
+          "P": 157.5,
+          "T": 12
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 62,
+          "P": 151.5,
+          "T": 13
+        },
+        {
+          "C": 1.92,
+          "CE": 1,
+          "G": 62,
+          "P": 151.5,
+          "T": 14
+        }
+      ],
+      "EC": 632,
+      "GLI": 104,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653361770,
+      "KI": 3,
+      "L": "Caribbean Premier League",
+      "LE": "Caribbean Premier League",
+      "LI": 1250191,
+      "LR": "Карибская Премьер-лига",
+      "MIO": {
+        "Loc": "Providence Stadium (Georgetown)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Providence Stadium (Georgetown)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+29°C"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "4"
+        },
+        {
+          "K": 23,
+          "V": "4.4"
+        },
+        {
+          "K": 24,
+          "V": "ENE wind m/s"
+        },
+        {
+          "K": 25,
+          "V": "758"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "79"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "5"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 153945,
+      "O1": "Guyana Amazon Warriors",
+      "O1C": 46,
+      "O1E": "Guyana Amazon Warriors",
+      "O1I": 76205,
+      "O1IMG": [
+        "76205.png"
+      ],
+      "O1IS": [
+        76205
+      ],
+      "O1R": "Гайана Амазон Уорриорз",
+      "O2": "Barbados Royals",
+      "O2C": 20,
+      "O2E": "Barbados Royals",
+      "O2I": 76463,
+      "O2IMG": [
+        "76463.png"
+      ],
+      "O2IS": [
+        76463
+      ],
+      "O2R": "Барбадос Роялс",
+      "PN": "",
+      "S": 1757890800,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67e9575a9930a40b3c358f42",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67e9575a9930a40b3c358f8a",
+      "SUBA": true,
+      "SmI": 8042,
+      "T": 100,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 44762,
+      "HL": true,
+      "IG": true,
+      "WP": {
+        "P1": 0.56,
+        "P2": 0.4,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "9278316ffa330aed28af84b63b5da24a.png",
+      "CI": 278766251,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 1.651,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.277,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.647,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.272,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 653438079,
+      "KI": 3,
+      "L": "World Cup. 2026. Women. Qualification",
+      "LE": "World Cup. 2026. Women. Qualification",
+      "LI": 2853249,
+      "LR": "Чемпионат Мира. 2026. Женщины. Квалификация",
+      "MIO": {
+        "Loc": "Albert Park (Suva)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Albert Park (Suva)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+24°C"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "6"
+        },
+        {
+          "K": 23,
+          "V": "5.6"
+        },
+        {
+          "K": 24,
+          "V": "ESE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "763"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "64"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 158026,
+      "O1": "Indonesia (Women)",
+      "O1C": 72,
+      "O1E": "Indonesia (Women)",
+      "O1I": 3557609,
+      "O1IMG": [
+        "89d2d3f7b0356f357df92c3a85703a83.jpg"
+      ],
+      "O1IS": [
+        3557609
+      ],
+      "O1R": "Индонезия (жен)",
+      "O2": "Japan (Women)",
+      "O2C": 218,
+      "O2E": "Japan (Women)",
+      "O2I": 3557635,
+      "O2IMG": [
+        "93ec404cb6caebd56d5c3d18f6cdf7e4.jpg"
+      ],
+      "O2IS": [
+        3557635
+      ],
+      "O2R": "Япония (жен)",
+      "PN": "",
+      "S": 1757899800,
+      "SE": "Cricket",
+      "SGI": "68c606c39930a40b3c18ff91",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68be1dff9930a40b3c24b72b",
+      "SUBA": true,
+      "SmI": 48031,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 53762,
+      "WP": {
+        "P1": 0.56,
+        "P2": 0.4,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "9278316ffa330aed28af84b63b5da24a.png",
+      "CI": 278766252,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "E": [
+        {
+          "C": 2.034,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.807,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.029,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.804,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 653438075,
+      "KI": 3,
+      "L": "World Cup. 2026. Women. Qualification",
+      "LE": "World Cup. 2026. Women. Qualification",
+      "LI": 2853249,
+      "LR": "Чемпионат Мира. 2026. Женщины. Квалификация",
+      "MIO": {
+        "Loc": "Albert Park (Suva)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Albert Park (Suva)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+24°C"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "6"
+        },
+        {
+          "K": 23,
+          "V": "5.6"
+        },
+        {
+          "K": 24,
+          "V": "ESE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "763"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "64"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 158045,
+      "O1": "Papua New Guinea (Women)",
+      "O1C": 143,
+      "O1E": "Papua New Guinea (Women)",
+      "O1I": 563293,
+      "O1IMG": [
+        "563293.png"
+      ],
+      "O1IS": [
+        563293
+      ],
+      "O1R": "Папуа Новая Гвинея (жен)",
+      "O2": "Vanuatu (Women)",
+      "O2C": 38,
+      "O2E": "Vanuatu (Women)",
+      "O2I": 6915335,
+      "O2IMG": [
+        "845b1ff41ff85ef28692fc7377d264f3.png"
+      ],
+      "O2IS": [
+        6915335
+      ],
+      "O2R": "Вануату (жен)",
+      "PN": "",
+      "S": 1757899800,
+      "SE": "Cricket",
+      "SGI": "68c606c39930a40b3c19005f",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68be1dff9930a40b3c24b72b",
+      "SUBA": true,
+      "SmI": 48031,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 53762,
+      "WP": {
+        "P1": 0.45,
+        "P2": 0.51,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278708757,
+      "CID": 1,
+      "CN": "Sri Lanka",
+      "COI": 208,
+      "E": [
+        {
+          "C": 1.813,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.024,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.81,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.02,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653332027,
+      "KI": 3,
+      "L": "MCA Super Premier League",
+      "LE": "MCA Super Premier League",
+      "LI": 2899487,
+      "LR": "МКА Супер Премьер Лига",
+      "MIO": {
+        "Loc": "Thurstan College Ground (Colombo)",
+        "MaF": "ODI"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Thurstan College Ground (Colombo)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 9,
+          "V": "+29°C"
+        },
+        {
+          "K": 11,
+          "V": "Sri Lanka"
+        },
+        {
+          "K": 20,
+          "V": "13"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy, rain and thunderstorms"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "4.2"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "758"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "81"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "48"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 156025,
+      "O1": "BBK Partnership Sri Lanka",
+      "O1C": 225,
+      "O1E": "BBK Partnership Sri Lanka",
+      "O1I": 7551239,
+      "O1IMG": [
+        "ad7a8c3b22b4934dbe7820c338fe18b1.png"
+      ],
+      "O1IS": [
+        7551239
+      ],
+      "O1R": "ББК Партнершип Шри-Ланка",
+      "O2": "Fairfirst Insurance",
+      "O2C": 208,
+      "O2CT": "Colombo",
+      "O2E": "Fairfirst Insurance",
+      "O2I": 9215471,
+      "O2IMG": [
+        "2657d7a6ee03498f4bfb50d03ea0b757.png"
+      ],
+      "O2IS": [
+        9215471
+      ],
+      "O2R": "Фэрфирст Иншуранс",
+      "PN": "",
+      "S": 1757910600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 49772,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 64562,
+      "WP": {
+        "P1": 0.52,
+        "P2": 0.46,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278709282,
+      "CID": 1,
+      "CN": "Sri Lanka",
+      "COI": 208,
+      "E": [
+        {
+          "C": 2.205,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.683,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.2,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.68,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "I": 653334700,
+      "KI": 3,
+      "L": "MCA Super Premier League",
+      "LE": "MCA Super Premier League",
+      "LI": 2899487,
+      "LR": "МКА Супер Премьер Лига",
+      "MIO": {
+        "MaF": "ODI"
+      },
+      "MIS": [
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 11,
+          "V": "Sri Lanka"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 161414,
+      "O1": "Hayleys Group A",
+      "O1C": 225,
+      "O1E": "Hayleys Group A",
+      "O1I": 9218267,
+      "O1IMG": [
+        "d2adffa3a7775b41e4b972b3ee555b88.png"
+      ],
+      "O1IS": [
+        9218267
+      ],
+      "O1R": "Хейлис Груп А",
+      "O2": "CDB A",
+      "O2C": 208,
+      "O2CT": "Colombo",
+      "O2E": "CDB A",
+      "O2I": 9215505,
+      "O2IMG": [
+        "3a533b7c4e054925718ca9f53c494a84.png"
+      ],
+      "O2IS": [
+        9215505
+      ],
+      "O2R": "КДБ А",
+      "PN": "",
+      "S": 1757910600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 64562,
+      "IG": true,
+      "WP": {
+        "P1": 0.42,
+        "P2": 0.56,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278711204,
+      "CID": 1,
+      "CN": "Sri Lanka",
+      "COI": 208,
+      "E": [
+        {
+          "C": 1.573,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.426,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.57,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.42,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653337182,
+      "KI": 3,
+      "L": "MCA Super Premier League",
+      "LE": "MCA Super Premier League",
+      "LI": 2899487,
+      "LR": "МКА Супер Премьер Лига",
+      "MIO": {
+        "Loc": "Mercantile Cricket Association Ground (Colombo)",
+        "MaF": "ODI"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Mercantile Cricket Association Ground (Colombo)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 9,
+          "V": "+29°C"
+        },
+        {
+          "K": 11,
+          "V": "Sri Lanka"
+        },
+        {
+          "K": 20,
+          "V": "13"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy, rain and thunderstorms"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "4.2"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "758"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "81"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "48"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 175365,
+      "O1": "Maliban Biscuits A",
+      "O1C": 208,
+      "O1CT": "Colombo",
+      "O1E": "Maliban Biscuits A",
+      "O1I": 9215507,
+      "O1IMG": [
+        "a55483b074c3837e20fe54fbc2045057.png"
+      ],
+      "O1IS": [
+        9215507
+      ],
+      "O1R": "Малибан Бисуитс А",
+      "O2": "HNB",
+      "O2C": 225,
+      "O2E": "HNB",
+      "O2I": 6498749,
+      "O2IMG": [
+        "1081f52cad8f4be14712a84379dabf7d.png"
+      ],
+      "O2IS": [
+        6498749
+      ],
+      "O2R": "ХНБ",
+      "PN": "",
+      "S": 1757910600,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 29681,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 64562,
+      "IG": true,
+      "WP": {
+        "P1": 0.6,
+        "P2": 0.39,
+        "PX": 0.01
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278689620,
+      "CID": 1,
+      "CN": "Finland",
+      "COI": 197,
+      "E": [
+        {
+          "C": 2.004,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.703,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.7,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 41,
+      "HSI": true,
+      "I": 653287843,
+      "KI": 3,
+      "L": "Finland. National League. Division 3",
+      "LE": "Finland. National League. Division 3",
+      "LI": 2589688,
+      "LR": "Финляндия. Национальная лига. Дивизион 3",
+      "MIO": {
+        "Loc": "Kerava National Cricket Ground (Kerava)",
+        "MaF": "T20"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Kerava National Cricket Ground (Kerava)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+15°C"
+        },
+        {
+          "K": 11,
+          "V": "Finland"
+        },
+        {
+          "K": 20,
+          "V": "12"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy, rain"
+        },
+        {
+          "K": 22,
+          "V": "8"
+        },
+        {
+          "K": 23,
+          "V": "6.4"
+        },
+        {
+          "K": 24,
+          "V": "SSE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "757"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "76"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "58"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 280657,
+      "O1": "HCC T20B",
+      "O1C": 225,
+      "O1E": "HCC T20B",
+      "O1I": 6773493,
+      "O1IMG": [
+        "287b097beacdfc1c5c81aa0da3e4d308.png"
+      ],
+      "O1IS": [
+        6773493
+      ],
+      "O1R": "ХКК Т20Б",
+      "O2": "KCC Strikers",
+      "O2C": 197,
+      "O2E": "KCC Strikers",
+      "O2I": 9700121,
+      "O2IMG": [
+        "8c32f4b897cae84788e7a8090520265f.png"
+      ],
+      "O2IS": [
+        9700121
+      ],
+      "O2R": "КСС Страйкерс",
+      "PN": "",
+      "S": 1757917800,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 33658,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 71762,
+      "WP": {
+        "P1": 0.44,
+        "P2": 0.52,
+        "PX": 0.04
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "69268e71c22419a3793279ff2c094867.png",
+      "CI": 278697645,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "DI": "First Match, T20",
+      "E": [
+        {
+          "C": 1.352,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.909,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.35,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.9,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 509,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653305788,
+      "KI": 3,
+      "L": "Zimbabwe vs Namibia",
+      "LE": "Zimbabwe vs Namibia",
+      "LI": 2629843,
+      "LR": "Зимбабве vs Намибия",
+      "MIO": {
+        "Loc": "Queens Sports Club (Bulawayo)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Queens Sports Club (Bulawayo)"
+        },
+        {
+          "K": 9,
+          "V": "+27°C"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "4"
+        },
+        {
+          "K": 23,
+          "V": "3.6"
+        },
+        {
+          "K": 24,
+          "V": "ENE wind m/s"
+        },
+        {
+          "K": 25,
+          "V": "762"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "16"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 194559,
+      "O1": "Zimbabwe",
+      "O1C": 69,
+      "O1E": "Zimbabwe",
+      "O1I": 22281,
+      "O1IMG": [
+        "22281.png"
+      ],
+      "O1IS": [
+        22281
+      ],
+      "O1R": "Зимбабве",
+      "O2": "Namibia",
+      "O2C": 128,
+      "O2E": "Namibia",
+      "O2I": 37345,
+      "O2IMG": [
+        "37345.png"
+      ],
+      "O2IS": [
+        37345
+      ],
+      "O2R": "Намибия",
+      "PN": "",
+      "S": 1757921400,
+      "SE": "Cricket",
+      "SGC": 1,
+      "SGI": "68c606c29930a40b3c18bf80",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "66750c3d0d8c0bfbf1aee4ef",
+      "SUBA": true,
+      "SmI": 822,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 75362,
+      "WP": {
+        "P1": 0.66,
+        "P2": 0.31,
+        "PX": 0.03
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278549675,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.541,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.477,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652998589,
+      "KI": 3,
+      "L": "County Championship Division One",
+      "LE": "County Championship Division One",
+      "LI": 1173161,
+      "LR": "Чемпионат Графств. Первый дивизион",
+      "MIO": {
+        "Loc": "Riverside Ground (Chester-le-Street)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Riverside Ground (Chester-le-Street)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+15°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "12"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy, rain"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "6.4"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "742"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "76"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "55"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 226875,
+      "O1": "Durham",
+      "O1C": 231,
+      "O1E": "Durham",
+      "O1I": 52737,
+      "O1IMG": [
+        "6c952b1a93ae7554cb709f850d383b07.png"
+      ],
+      "O1IS": [
+        52737
+      ],
+      "O1R": "Дархэм",
+      "O2": "Worcestershire",
+      "O2C": 39,
+      "O2E": "Worcestershire",
+      "O2I": 48695,
+      "O2IMG": [
+        "970e3549d37463b72bc3cfd7f1c0a90f.png"
+      ],
+      "O2IS": [
+        48695
+      ],
+      "O2R": "Вустершир",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05ddc0",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 650,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.62,
+        "P2": 0.38
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278537522,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.823,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.984,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652967664,
+      "KI": 3,
+      "L": "County Championship Division One",
+      "LE": "County Championship Division One",
+      "LI": 1173161,
+      "LR": "Чемпионат Графств. Первый дивизион",
+      "MIO": {
+        "Loc": "Cooper Associates County Ground (Taunton)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Cooper Associates County Ground (Taunton)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+16°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "8"
+        },
+        {
+          "K": 21,
+          "V": "Cloudy, rain"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "9.7"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "755"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "74"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "30"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 249744,
+      "O1": "Somerset County",
+      "O1C": 39,
+      "O1E": "Somerset County",
+      "O1I": 24471,
+      "O1IMG": [
+        "5f61d43ab8966d0c33faa9b5df9b8fa3.png"
+      ],
+      "O1IS": [
+        24471
+      ],
+      "O1R": "Сомерсет",
+      "O2": "Hampshire",
+      "O2C": 225,
+      "O2E": "Hampshire",
+      "O2I": 233611,
+      "O2IMG": [
+        "14cc9ce6f5676eb64c5b4d61bc8f3eab.png"
+      ],
+      "O2IS": [
+        233611
+      ],
+      "O2R": "Хэмпшир",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05dcfc",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 685,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.52,
+        "P2": 0.48
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278537520,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.631,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.275,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652967668,
+      "KI": 3,
+      "L": "County Championship Division One",
+      "LE": "County Championship Division One",
+      "LI": 1173161,
+      "LR": "Чемпионат Графств. Первый дивизион",
+      "MIO": {
+        "Loc": "Kia Oval (London)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Kia Oval (London)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+17°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "9.7"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "754"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "61"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "6"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 249739,
+      "O1": "Surrey County",
+      "O1C": 39,
+      "O1E": "Surrey County",
+      "O1I": 24469,
+      "O1IMG": [
+        "6ffcab9de14a3e5b8ee8a9e9cdf99f30.png"
+      ],
+      "O1IS": [
+        24469
+      ],
+      "O1R": "Суррей",
+      "O2": "Nottinghamshire County",
+      "O2C": 231,
+      "O2E": "Nottinghamshire County",
+      "O2I": 31389,
+      "O2IMG": [
+        "410312b77be77e578860c32d66e7592c.png"
+      ],
+      "O2IS": [
+        31389
+      ],
+      "O2R": "Ноттингемшир",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05dbb1",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 425,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.58,
+        "P2": 0.42
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278545702,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.9,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652991217,
+      "KI": 3,
+      "L": "County Championship Division One",
+      "LE": "County Championship Division One",
+      "LI": 1173161,
+      "LR": "Чемпионат Графств. Первый дивизион",
+      "MIO": {
+        "Loc": "1st Central County Ground (Hove)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "1st Central County Ground (Hove)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+17°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "11.4"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "756"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "69"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "23"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 187064,
+      "O1": "Sussex",
+      "O1C": 225,
+      "O1E": "Sussex",
+      "O1I": 234489,
+      "O1IMG": [
+        "234489.png"
+      ],
+      "O1IS": [
+        234489
+      ],
+      "O1R": "Сассекс",
+      "O2": "Yorkshire County",
+      "O2C": 225,
+      "O2E": "Yorkshire County",
+      "O2I": 54777,
+      "O2IMG": [
+        "54777.png"
+      ],
+      "O2IS": [
+        54777
+      ],
+      "O2R": "Йоркшир",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05dc62",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 687,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.5,
+        "P2": 0.5
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278547765,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.87,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.931,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652996955,
+      "KI": 3,
+      "L": "County Championship Division One",
+      "LE": "County Championship Division One",
+      "LI": 1173161,
+      "LR": "Чемпионат Графств. Первый дивизион",
+      "MIO": {
+        "Loc": "Edgbaston Cricket Ground (Birmingham)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Edgbaston Cricket Ground (Birmingham)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+15°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "8.9"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "750"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "67"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "13"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 203757,
+      "O1": "Warwickshire",
+      "O1C": 225,
+      "O1E": "Warwickshire",
+      "O1I": 233609,
+      "O1IMG": [
+        "495248cb52b13d3772a90fca29c70b23.png"
+      ],
+      "O1IS": [
+        233609
+      ],
+      "O1R": "Уорикшир",
+      "O2": "Essex County",
+      "O2C": 39,
+      "O2E": "Essex County",
+      "O2I": 17993,
+      "O2IMG": [
+        "17993.png"
+      ],
+      "O2IS": [
+        17993
+      ],
+      "O2R": "Эссекс",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05dd7b",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 484,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.51,
+        "P2": 0.49
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278552072,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 2.236,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.652,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 4,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653006455,
+      "KI": 3,
+      "L": "County Championship Division Two",
+      "LE": "County Championship Division Two",
+      "LI": 1173177,
+      "LR": "Чемпионат Графств. Второй дивизион",
+      "MIO": {
+        "Loc": "County Cricket Ground (Derby)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "County Cricket Ground (Derby)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+16°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "11.1"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "749"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "68"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "10"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 274079,
+      "O1": "Derbyshire",
+      "O1C": 39,
+      "O1E": "Derbyshire",
+      "O1I": 66873,
+      "O1IMG": [
+        "859c751586329e06c9412f574f358a13.png"
+      ],
+      "O1IS": [
+        66873
+      ],
+      "O1R": "Дербишир",
+      "O2": "Glamorgan County",
+      "O2C": 39,
+      "O2E": "Glamorgan County",
+      "O2I": 31387,
+      "O2IMG": [
+        "14765c843153ed74b9a504e34eb1a675.png"
+      ],
+      "O2IS": [
+        31387
+      ],
+      "O2R": "Гламорган",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05dfa6",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 7385,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.42,
+        "P2": 0.58
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278552070,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.962,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.841,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653005475,
+      "KI": 3,
+      "L": "County Championship Division Two",
+      "LE": "County Championship Division Two",
+      "LI": 1173177,
+      "LR": "Чемпионат Графств. Второй дивизион",
+      "MIO": {
+        "Loc": "Seat Unique (Bristol)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Seat Unique (Bristol)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+16°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "12"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy, rain"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "10.6"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "754"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "76"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "38"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 274078,
+      "O1": "Gloucestershire County",
+      "O1C": 231,
+      "O1E": "Gloucestershire County",
+      "O1I": 64069,
+      "O1IMG": [
+        "bb96a5f8f505cee3f32dfad331a148d6.png"
+      ],
+      "O1IS": [
+        64069
+      ],
+      "O1R": "Глостершир",
+      "O2": "Northamptonshire",
+      "O2C": 231,
+      "O2E": "Northamptonshire",
+      "O2I": 2769657,
+      "O2IMG": [
+        "b4ddf7c79bb40a3211e6b9897c3e824e.png"
+      ],
+      "O2IS": [
+        2769657
+      ],
+      "O2R": "Нортгемптоншир",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05df13",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 686,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.48,
+        "P2": 0.52
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278550113,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.962,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.841,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652998979,
+      "KI": 3,
+      "L": "County Championship Division Two",
+      "LE": "County Championship Division Two",
+      "LI": 1173177,
+      "LR": "Чемпионат Графств. Второй дивизион",
+      "MIO": {
+        "Loc": "Old Trafford (Manchester)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Old Trafford (Manchester)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+14°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "8"
+        },
+        {
+          "K": 21,
+          "V": "Cloudy, rain"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "7.8"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "747"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "76"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "60"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 232684,
+      "O1": "Lancashire",
+      "O1C": 225,
+      "O1E": "Lancashire",
+      "O1I": 4126941,
+      "O1IMG": [
+        "cb1ed03ad80afa483117331cab50ea8c.png"
+      ],
+      "O1IS": [
+        4126941
+      ],
+      "O1R": "Ланкашир",
+      "O2": "Middlesex",
+      "O2C": 39,
+      "O2E": "Middlesex",
+      "O2I": 48687,
+      "O2IMG": [
+        "a3d6f75d720962f29c9af94805ee59d5.png"
+      ],
+      "O2IS": [
+        48687
+      ],
+      "O2R": "Мидлсекс",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05de23",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 594,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.48,
+        "P2": 0.52
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278550112,
+      "CID": 1,
+      "CN": "United Kingdom",
+      "COI": 39,
+      "E": [
+        {
+          "C": 1.536,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.49,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653000440,
+      "KI": 3,
+      "L": "County Championship Division Two",
+      "LE": "County Championship Division Two",
+      "LI": 1173177,
+      "LR": "Чемпионат Графств. Второй дивизион",
+      "MIO": {
+        "Loc": "Uptonsteel County Ground (Leicester)",
+        "MaF": "Test Match"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Uptonsteel County Ground (Leicester)"
+        },
+        {
+          "K": 3,
+          "V": "Test Match"
+        },
+        {
+          "K": 9,
+          "V": "+16°C"
+        },
+        {
+          "K": 11,
+          "V": "Great Britain"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "12"
+        },
+        {
+          "K": 23,
+          "V": "10.6"
+        },
+        {
+          "K": 24,
+          "V": "WSW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "750"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "67"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 232680,
+      "O1": "Leicestershire",
+      "O1C": 225,
+      "O1E": "Leicestershire",
+      "O1I": 4175983,
+      "O1IMG": [
+        "a95f5242543a7bcea4f54bb54c9484fc.png"
+      ],
+      "O1IS": [
+        4175983
+      ],
+      "O1R": "Лестершир",
+      "O2": "Kent",
+      "O2C": 231,
+      "O2E": "Kent",
+      "O2I": 64067,
+      "O2IMG": [
+        "9272e413d7cf9b38c76a8accf89c9f07.png"
+      ],
+      "O2IS": [
+        64067
+      ],
+      "O2R": "Кент",
+      "PN": "",
+      "S": 1757928600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "67d5183b9930a40b3c05dea6",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "67d5183b9930a40b3c05e2ad",
+      "SUBA": true,
+      "SmI": 42896,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 82562,
+      "WP": {
+        "P1": 0.62,
+        "P2": 0.38
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "e480d34c338ae2e0c05a467f4105e2df.png",
+      "CI": 278562108,
+      "CID": 1,
+      "CN": "Asia",
+      "COI": 229,
+      "E": [
+        {
+          "C": 1.545,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 25,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.513,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.543,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.505,
+          "G": 101,
+          "T": 402
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 15,
+          "P": 148.5,
+          "T": 11
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 15,
+          "P": 148.5,
+          "T": 12
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 62,
+          "P": 138.5,
+          "T": 13
+        },
+        {
+          "C": 1.87,
+          "CE": 1,
+          "G": 62,
+          "P": 138.5,
+          "T": 14
+        }
+      ],
+      "EC": 666,
+      "GLI": 133,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653029445,
+      "KI": 3,
+      "L": "Asia Cup",
+      "LE": "Asia Cup",
+      "LI": 1147567,
+      "LR": "Кубок Азии",
+      "MIO": {
+        "Loc": "Gymkhana Club Ground (Nairobi)",
+        "MaF": "T20",
+        "TSt": "Group stage. Group A"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Group stage. Group A"
+        },
+        {
+          "K": 2,
+          "V": "Gymkhana Club Ground (Nairobi)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+27°C"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "6"
+        },
+        {
+          "K": 23,
+          "V": "3.9"
+        },
+        {
+          "K": 24,
+          "V": "ESE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "757"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "37"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "17"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 209405,
+      "O1": "United Arab Emirates",
+      "O1C": 139,
+      "O1E": "United Arab Emirates",
+      "O1I": 37343,
+      "O1IMG": [
+        "4ec088f4d90f886d4cafcc21fb58395f.png"
+      ],
+      "O1IS": [
+        37343
+      ],
+      "O1R": "ОАЭ",
+      "O2": "Oman",
+      "O2C": 140,
+      "O2E": "Oman",
+      "O2I": 208399,
+      "O2IMG": [
+        "208399.png"
+      ],
+      "O2IS": [
+        208399
+      ],
+      "O2R": "Оман",
+      "PN": "",
+      "S": 1757937600,
+      "SE": "Cricket",
+      "SGC": 2,
+      "SGI": "68ada8009930a40b3c3a6258",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68a6c5e59930a40b3c240435",
+      "SUBA": true,
+      "SmI": 44447,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 91562,
+      "IG": true,
+      "WP": {
+        "P1": 0.6,
+        "P2": 0.37,
+        "PX": 0.03
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "2166baee4ee1cb299dddd662ba7438bf.png",
+      "CI": 278585260,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "DI": "7th match ODI",
+      "E": [
+        {
+          "C": 2.499,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.551,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.493,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.548,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653073567,
+      "KI": 3,
+      "L": "West Indies U19 vs Sri Lanka U19",
+      "LE": "West Indies U19 vs Sri Lanka U19",
+      "LI": 2593513,
+      "LR": "Вест-Индия (19) vs Шри-Ланка (19)",
+      "MIO": {
+        "Loc": "Sir Vivian Richards (Antigua)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Sir Vivian Richards (Antigua)"
+        },
+        {
+          "K": 9,
+          "V": "+29°C"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "5"
+        },
+        {
+          "K": 23,
+          "V": "5.8"
+        },
+        {
+          "K": 24,
+          "V": "E wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "761"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "76"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "11"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 185299,
+      "O1": "West Indies U19",
+      "O1C": 225,
+      "O1E": "West Indies U19",
+      "O1I": 44821,
+      "O1IMG": [
+        "44821.png"
+      ],
+      "O1IS": [
+        44821
+      ],
+      "O1R": "Вест-Индия (19)",
+      "O2": "Sri Lanka U19",
+      "O2C": 208,
+      "O2E": "Sri Lanka U19",
+      "O2I": 44825,
+      "O2IMG": [
+        "44825.png"
+      ],
+      "O2IS": [
+        44825
+      ],
+      "O2R": "Шри-Ланка (19)",
+      "PN": "",
+      "S": 1757943000,
+      "SE": "Cricket",
+      "SGC": 1,
+      "SGI": "68b58a219930a40b3c5ba463",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "679b91649930a40b3cec87b8",
+      "SUBA": true,
+      "SmI": 11204,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 96962,
+      "IG": true,
+      "WP": {
+        "P1": 0.38,
+        "P2": 0.61,
+        "PX": 0.01
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "e480d34c338ae2e0c05a467f4105e2df.png",
+      "CI": 278718927,
+      "CID": 1,
+      "CN": "Asia",
+      "COI": 229,
+      "E": [
+        {
+          "C": 1.02,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 14.9,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 472,
+      "GLI": 133,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653386830,
+      "KI": 3,
+      "L": "Asia Cup",
+      "LE": "Asia Cup",
+      "LI": 1147567,
+      "LR": "Кубок Азии",
+      "MIO": {
+        "Loc": "Dubai International Cricket Ground (Dubai)",
+        "MaF": "T20",
+        "TSt": "Group stage. Group B"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Group stage. Group B"
+        },
+        {
+          "K": 2,
+          "V": "Dubai International Cricket Ground (Dubai)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        },
+        {
+          "K": 9,
+          "V": "+34°C"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "15"
+        },
+        {
+          "K": 23,
+          "V": "4.2"
+        },
+        {
+          "K": 24,
+          "V": "NW wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "753"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "57"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 249471,
+      "O1": "Sri Lanka",
+      "O1C": 208,
+      "O1E": "Sri Lanka",
+      "O1I": 21871,
+      "O1IMG": [
+        "21871.png"
+      ],
+      "O1IS": [
+        21871
+      ],
+      "O1R": "Шри-Ланка",
+      "O2": "Hong Kong",
+      "O2C": 57,
+      "O2E": "Hong Kong",
+      "O2I": 37419,
+      "O2IMG": [
+        "37419.png"
+      ],
+      "O2IS": [
+        37419
+      ],
+      "O2R": "Гонконг",
+      "PN": "",
+      "S": 1757946600,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SGI": "68ada7ff9930a40b3c3a4a11",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68a6c5e59930a40b3c240435",
+      "SUBA": true,
+      "SmI": 12668,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 100562,
+      "WP": {
+        "P1": 0.94,
+        "P2": 0.06
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278239928,
+      "CID": 1,
+      "CN": "Australia",
+      "COI": 4,
+      "E": [
+        {
+          "C": 1.967,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.863,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.963,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.86,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 332,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 653296734,
+      "KI": 3,
+      "L": "Australia. One-Day Cup",
+      "LE": "Australia. One-Day Cup",
+      "LI": 2761772,
+      "LR": "Австралия. Ван Дэй Кап",
+      "MIO": {
+        "Loc": "Cricket Central (Sydney)",
+        "MaF": "ODI",
+        "TSt": "Round Robin"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Round Robin"
+        },
+        {
+          "K": 2,
+          "V": "Cricket Central (Sydney)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 9,
+          "V": "+23°C"
+        },
+        {
+          "K": 11,
+          "V": "Australia"
+        },
+        {
+          "K": 20,
+          "V": "11"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy"
+        },
+        {
+          "K": 22,
+          "V": "16"
+        },
+        {
+          "K": 23,
+          "V": "7.5"
+        },
+        {
+          "K": 24,
+          "V": "NNW wind m/s"
+        },
+        {
+          "K": 25,
+          "V": "761"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "45"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "0"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 157294,
+      "O1": "New South Wales",
+      "O1C": 4,
+      "O1E": "New South Wales",
+      "O1I": 440311,
+      "O1IMG": [
+        "81e1ccff708cc2ff10b4770c806ab0d3.png"
+      ],
+      "O1IS": [
+        440311
+      ],
+      "O1R": "Новый Южный Уэльс",
+      "O2": "Tasmanian Tigers",
+      "O2C": 4,
+      "O2E": "Tasmanian Tigers",
+      "O2I": 32115,
+      "O2IMG": [
+        "e089c92ada674ce1a637d296a0dd0462.png"
+      ],
+      "O2IS": [
+        32115
+      ],
+      "O2R": "Тасмания Тайгерс",
+      "PN": "",
+      "S": 1757979000,
+      "SE": "Cricket",
+      "SGC": 2,
+      "SGI": "68bf6e7b9930a40b3c768b2d",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68bf44a99930a40b3ce86fb0",
+      "SUBA": true,
+      "SmI": 51524,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 132962,
+      "IG": true,
+      "WP": {
+        "P1": 0.48,
+        "P2": 0.5,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "8098c7ce2964be6610c341f03ff2f256.png",
+      "CI": 278514407,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "DI": "1st test",
+      "E": [
+        {
+          "C": 1.399,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.959,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 2,
+      "HS": 1,
+      "HSI": true,
+      "I": 652917183,
+      "KI": 3,
+      "L": "India A vs Australia A",
+      "LE": "India A vs Australia A",
+      "LI": 2903847,
+      "LR": "Индия А vs Австралия А",
+      "MIO": {
+        "Loc": "Ekana International Cricket Stadium (Lucknow)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Ekana International Cricket Stadium (Lucknow)"
+        },
+        {
+          "K": 9,
+          "V": "+28°C"
+        },
+        {
+          "K": 20,
+          "V": "12"
+        },
+        {
+          "K": 21,
+          "V": "Gloomy, rain"
+        },
+        {
+          "K": 22,
+          "V": "5"
+        },
+        {
+          "K": 23,
+          "V": "2.8"
+        },
+        {
+          "K": 24,
+          "V": "E wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "755"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "88"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "51"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 156874,
+      "O1": "India A",
+      "O1C": 71,
+      "O1E": "India A",
+      "O1I": 215285,
+      "O1IMG": [
+        "215285.png"
+      ],
+      "O1IS": [
+        215285
+      ],
+      "O1R": "Индия А",
+      "O2": "Australia A",
+      "O2C": 4,
+      "O2E": "Australia A",
+      "O2I": 214285,
+      "O2IMG": [
+        "214285.png"
+      ],
+      "O2IS": [
+        214285
+      ],
+      "O2R": "Австралия А",
+      "PN": "",
+      "S": 1757995200,
+      "SE": "Cricket",
+      "SGC": 3,
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 16324,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 149162,
+      "WP": {
+        "P1": 0.68,
+        "P2": 0.32
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "188fd2d4c938d7f12b16cc0a10b9a9ec.png",
+      "CI": 278086166,
+      "CID": 1,
+      "CN": "World",
+      "COI": 225,
+      "DI": "1st ODI",
+      "E": [
+        {
+          "C": 2.969,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.412,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2.96,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.41,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 319,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652127734,
+      "KI": 3,
+      "L": "Pakistan (Women) vs South Africa (Women)",
+      "LE": "Pakistan (Women) vs South Africa (Women)",
+      "LI": 2594839,
+      "LR": "Пакистан (жен) vs ЮАР (жен)",
+      "MIO": {
+        "Loc": "Gaddafi (Lahore)"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Gaddafi (Lahore)"
+        },
+        {
+          "K": 9,
+          "V": "+32°C"
+        },
+        {
+          "K": 20,
+          "V": "3"
+        },
+        {
+          "K": 21,
+          "V": "Some cloud"
+        },
+        {
+          "K": 22,
+          "V": "8"
+        },
+        {
+          "K": 23,
+          "V": "2.5"
+        },
+        {
+          "K": 24,
+          "V": "SSE wind, m/s"
+        },
+        {
+          "K": 25,
+          "V": "754"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "63"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 157764,
+      "O1": "Pakistan (Women)",
+      "O1C": 141,
+      "O1E": "Pakistan (Women)",
+      "O1I": 47623,
+      "O1IMG": [
+        "47623.png"
+      ],
+      "O1IS": [
+        47623
+      ],
+      "O1R": "Пакистан (жен)",
+      "O2": "South Africa (Women)",
+      "O2C": 214,
+      "O2E": "South Africa (Women)",
+      "O2I": 47637,
+      "O2IMG": [
+        "47637.png"
+      ],
+      "O2IS": [
+        47637
+      ],
+      "O2R": "ЮАР (жен)",
+      "PN": "",
+      "S": 1757997000,
+      "SE": "Cricket",
+      "SGC": 2,
+      "SGI": "68ada7bd9930a40b3c2b5f6c",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 3,
+      "STI": "6697b3690d8c0bfbf13cc739",
+      "SUBA": true,
+      "SmI": 19474,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 150962,
+      "IG": true,
+      "WP": {
+        "P1": 0.32,
+        "P2": 0.66,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278241653,
+      "CID": 1,
+      "CN": "Australia",
+      "COI": 4,
+      "E": [
+        {
+          "C": 1.783,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.065,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.78,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.06,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 397,
+      "HHTHS": true,
+      "HS": 1,
+      "HSI": true,
+      "I": 652422988,
+      "KI": 3,
+      "L": "Australia. One-Day Cup",
+      "LE": "Australia. One-Day Cup",
+      "LI": 2761772,
+      "LR": "Австралия. Ван Дэй Кап",
+      "MIO": {
+        "Loc": "Allan Border Field (Brisbane)",
+        "MaF": "ODI",
+        "TSt": "Round Robin"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Round Robin"
+        },
+        {
+          "K": 2,
+          "V": "Allan Border Field (Brisbane)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 9,
+          "V": "+25°C"
+        },
+        {
+          "K": 11,
+          "V": "Australia"
+        },
+        {
+          "K": 20,
+          "V": "15"
+        },
+        {
+          "K": 21,
+          "V": "Clear skies"
+        },
+        {
+          "K": 22,
+          "V": "16"
+        },
+        {
+          "K": 23,
+          "V": "3.1"
+        },
+        {
+          "K": 24,
+          "V": "NNW wind m/s"
+        },
+        {
+          "K": 25,
+          "V": "766"
+        },
+        {
+          "K": 26,
+          "V": "Pressure, mmHg"
+        },
+        {
+          "K": 27,
+          "V": "62"
+        },
+        {
+          "K": 28,
+          "V": "Humidity, %"
+        },
+        {
+          "K": 35,
+          "V": "1"
+        },
+        {
+          "K": 36,
+          "V": "Precipitation, %"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 170224,
+      "O1": "Queensland Bulls",
+      "O1C": 4,
+      "O1E": "Queensland Bulls",
+      "O1I": 262115,
+      "O1IMG": [
+        "262115.png"
+      ],
+      "O1IS": [
+        262115
+      ],
+      "O1R": "Квинсленд Булз",
+      "O2": "Victoria",
+      "O2C": 4,
+      "O2E": "Victoria",
+      "O2I": 440313,
+      "O2IMG": [
+        "9480e1f0a177ee06cca11694f3df8476.png"
+      ],
+      "O2IS": [
+        440313
+      ],
+      "O2R": "Виктория",
+      "PN": "",
+      "S": 1758065400,
+      "SE": "Cricket",
+      "SGC": 2,
+      "SGI": "68c0c02a9930a40b3c3f85e7",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68bf44a99930a40b3ce86fb0",
+      "SUBA": true,
+      "SmI": 12243,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 219362,
+      "IG": true,
+      "WP": {
+        "P1": 0.53,
+        "P2": 0.45,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CHIMG": "e480d34c338ae2e0c05a467f4105e2df.png",
+      "CI": 275431598,
+      "CID": 1,
+      "CN": "Asia",
+      "COI": 229,
+      "E": [
+        {
+          "C": 1.022,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 14.5,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 38,
+      "GLI": 133,
+      "HHTHS": true,
+      "HSI": true,
+      "I": 647540941,
+      "KI": 3,
+      "L": "Asia Cup",
+      "LE": "Asia Cup",
+      "LI": 1147567,
+      "LR": "Кубок Азии",
+      "MIO": {
+        "Loc": "Sheikh Zayed Stadium (Abu Dhabi)",
+        "MaF": "T20",
+        "TSt": "Group stage. Group A"
+      },
+      "MIS": [
+        {
+          "K": 1,
+          "V": "Group stage. Group A"
+        },
+        {
+          "K": 2,
+          "V": "Sheikh Zayed Stadium (Abu Dhabi)"
+        },
+        {
+          "K": 3,
+          "V": "T20"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 241779,
+      "O1": "India",
+      "O1C": 71,
+      "O1E": "India",
+      "O1I": 22283,
+      "O1IMG": [
+        "22283.png"
+      ],
+      "O1IS": [
+        22283
+      ],
+      "O1R": "Индия",
+      "O2": "Oman",
+      "O2C": 140,
+      "O2E": "Oman",
+      "O2I": 208399,
+      "O2IMG": [
+        "208399.png"
+      ],
+      "O2IS": [
+        208399
+      ],
+      "O2R": "Оман",
+      "PN": "",
+      "S": 1758292200,
+      "SE": "Cricket",
+      "SGI": "68a6c5ef9930a40b3c26cb7e",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SS": 2,
+      "SSI": 0,
+      "SST": 2,
+      "STI": "68a6c5e59930a40b3c240435",
+      "SUBA": true,
+      "SmI": 15837,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 446162,
+      "WP": {
+        "P1": 0.93,
+        "P2": 0.07
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278655058,
+      "CID": 1,
+      "CN": "Australia",
+      "COI": 4,
+      "E": [
+        {
+          "C": 2.004,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.753,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 2,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.75,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653214916,
+      "KI": 3,
+      "L": "Australia. Queensland Premier First Grade",
+      "LE": "Australia. Queensland Premier First Grade",
+      "LI": 2583702,
+      "LR": "Австралия. Квинсленд Премьер Ферст Грэйд",
+      "MIO": {
+        "Loc": "Bill Pippen Oval (Gold Coast)",
+        "MaF": "ODI"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Bill Pippen Oval (Gold Coast)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 11,
+          "V": "Australia"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 201830,
+      "O1": "Gold Coast",
+      "O1C": 4,
+      "O1E": "Gold Coast",
+      "O1I": 6941461,
+      "O1IMG": [
+        "868296b2ad0f2d34a6b363d0d0dfb611.png"
+      ],
+      "O1IS": [
+        6941461
+      ],
+      "O1R": "Голд Коаст",
+      "O2": "Toombull",
+      "O2C": 4,
+      "O2E": "Toombull",
+      "O2I": 6847711,
+      "O2IMG": [
+        "a87a4d91db93b3c68a60866201bf7bc1.png"
+      ],
+      "O2IS": [
+        6847711
+      ],
+      "O2R": "Тумбул",
+      "PN": "",
+      "S": 1758322800,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 12244,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 476762,
+      "WP": {
+        "P1": 0.46,
+        "P2": 0.52,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278655062,
+      "CID": 1,
+      "CN": "Australia",
+      "COI": 4,
+      "E": [
+        {
+          "C": 1.422,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 2.688,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 1.42,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 2.68,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653214920,
+      "KI": 3,
+      "L": "Australia. Queensland Premier First Grade",
+      "LE": "Australia. Queensland Premier First Grade",
+      "LI": 2583702,
+      "LR": "Австралия. Квинсленд Премьер Ферст Грэйд",
+      "MIO": {
+        "Loc": "Peter Easton Oval (Ashgrove)",
+        "MaF": "ODI"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Peter Easton Oval (Ashgrove)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 11,
+          "V": "Australia"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 201949,
+      "O1": "Valley",
+      "O1C": 4,
+      "O1E": "Valley",
+      "O1I": 6941463,
+      "O1IMG": [
+        "47805697c0fec9d90a1f2cb72d00f991.png"
+      ],
+      "O1IS": [
+        6941463
+      ],
+      "O1R": "Валлей",
+      "O2": "University of Queensland",
+      "O2C": 4,
+      "O2E": "University of Queensland",
+      "O2I": 6767417,
+      "O2IMG": [
+        "548d2f0423da61f7c556a9a6ba1a5216.png"
+      ],
+      "O2IS": [
+        6767417
+      ],
+      "O2R": "Университет Квинсленда",
+      "PN": "",
+      "S": 1758322800,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 45229,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 476762,
+      "WP": {
+        "P1": 0.64,
+        "P2": 0.34,
+        "PX": 0.02
+      }
+    },
+    {
+      "AE": [],
+      "CI": 278655074,
+      "CID": 1,
+      "CN": "Australia",
+      "COI": 4,
+      "E": [
+        {
+          "C": 4.925,
+          "G": 1,
+          "T": 1
+        },
+        {
+          "C": 50,
+          "G": 1,
+          "T": 2
+        },
+        {
+          "C": 1.141,
+          "G": 1,
+          "T": 3
+        },
+        {
+          "C": 4.9,
+          "G": 101,
+          "T": 401
+        },
+        {
+          "C": 1.14,
+          "G": 101,
+          "T": 402
+        }
+      ],
+      "EC": 15,
+      "HSI": true,
+      "I": 653214919,
+      "KI": 3,
+      "L": "Australia. Queensland Premier First Grade",
+      "LE": "Australia. Queensland Premier First Grade",
+      "LI": 2583702,
+      "LR": "Австралия. Квинсленд Премьер Ферст Грэйд",
+      "MIO": {
+        "Loc": "Bill Albury Oval (Brisbane)",
+        "MaF": "ODI"
+      },
+      "MIS": [
+        {
+          "K": 2,
+          "V": "Bill Albury Oval (Brisbane)"
+        },
+        {
+          "K": 3,
+          "V": "ODI"
+        },
+        {
+          "K": 11,
+          "V": "Australia"
+        }
+      ],
+      "MS": [
+        0
+      ],
+      "N": 202007,
+      "O1": "Wynnum-Manly",
+      "O1C": 225,
+      "O1E": "Wynnum-Manly",
+      "O1I": 6767773,
+      "O1IMG": [
+        "77ad8220cb0795da727cbf661afff5e2.png"
+      ],
+      "O1IS": [
+        6767773
+      ],
+      "O1R": "Вайннум-Манли",
+      "O2": "Western Suburbs",
+      "O2C": 225,
+      "O2E": "Western Suburbs",
+      "O2I": 6139721,
+      "O2IMG": [
+        "108c9c7ffc9a9229128d0987fe1f79e5.png"
+      ],
+      "O2IS": [
+        6139721
+      ],
+      "O2R": "Западный Субурбс",
+      "PN": "",
+      "S": 1758322800,
+      "SE": "Cricket",
+      "SI": 66,
+      "SN": "Cricket",
+      "SR": "Крикет",
+      "SSI": 0,
+      "SUBA": true,
+      "SmI": 56891,
+      "TG": "",
+      "TN": "innings",
+      "TNS": "innings",
+      "V": "",
+      "VE": "",
+      "B": 476762,
+      "WP": {
+        "P1": 0.18,
+        "P2": 0.8,
+        "PX": 0.02
+      }
+    }
+  ]
+}
