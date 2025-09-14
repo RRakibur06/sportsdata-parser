@@ -1,5 +1,3 @@
-# run.py - Quick start runner script
-
 import uvicorn
 import json
 import os
@@ -13,17 +11,15 @@ def setup_project():
     for directory in directories:
         Path(directory).mkdir(parents=True, exist_ok=True)
     
-    # Create sample data file if it doesn't exist
     sample_data_path = "data/sample_data.json"
     if not os.path.exists(sample_data_path):
         print("Creating sample data file...")
         
-        # Your JSON data should go here
         sample_data = {
             "Error": "",
             "ErrorCode": 0,
             "Success": True,
-            "Value": []  # Paste your complete API response Value array here
+            "Value": []  
         }
         
         with open(sample_data_path, 'w') as f:
@@ -32,12 +28,9 @@ def setup_project():
         print(f"Sample data created at {sample_data_path}")
         print("Please update this file with your actual API response data.")
     
-    # Create dashboard template
     template_path = "app/templates/dashboard.html"
     if not os.path.exists(template_path):
         print("Creating dashboard template...")
-        # The dashboard template content would go here
-        # (You can copy it from the previous artifact)
         print(f"Dashboard template created at {template_path}")
     
     print("Project setup complete!")
@@ -136,5 +129,4 @@ def analyze_sample_data():
     except Exception as e:
         print(f"Error: {e}")
 
-# Uncomment this line if you want to run analysis instead of server
 # analyze_sample_data()
